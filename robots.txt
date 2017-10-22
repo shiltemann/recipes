@@ -1,3 +1,3 @@
 User-agent: *
-Sitemap: https://shiltemann.github.io/sitemap.xml
+Sitemap: https://shiltemann.github.io/recipes/sitemap.xml
 Disallow: /contact-success/
