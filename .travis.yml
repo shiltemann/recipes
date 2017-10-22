@@ -10,6 +10,7 @@ env:
 install:
   - sudo apt-get update
   - sudo update-ca-certificates
+  - pip install yamllint
   - gem install bundler
   - bundle install
   - bundle update
