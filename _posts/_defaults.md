@@ -5,6 +5,7 @@ categories:
 date:
 featured_image:
 recipe:
+  person:
   servings:
   prep:
   cook:
