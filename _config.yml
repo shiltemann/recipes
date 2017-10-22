@@ -1,8 +1,8 @@
-# ----
+---
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
+title: Recipes
+url: "https://shitemann.github.io/recipes"
 baseurl:
 google_analytics_key:
 newsletter_action: "//your-mailchimp-action-url.com"
@@ -14,7 +14,7 @@ description: Food blog template for Jekyll.
 author:
   name:
   email:
-  twitter: # twitter username without the @ symbol
+  twitter:  # twitter username without the @ symbol
 social:
   name: Treat Template
   links:
