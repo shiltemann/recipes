@@ -2,8 +2,8 @@
 # Site
 
 title: Recipes
-url: "https://shiltemann.github.io/recipes"
-baseurl:
+url: "https://shiltemann.github.io"
+baseurl: /recipes
 google_analytics_key:
 newsletter_action: "//your-mailchimp-action-url.com"
 disqus_shortname:
