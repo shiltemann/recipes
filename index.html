@@ -6,12 +6,16 @@ title: Home
         <article class="post">
             {% include post-heading.html post=post %}
             <div class="image">
+                {% if post.image-local %}
+                <img src="{{ site.baseurl }}/images/{{ post.featured_image }}" alt="{{ post.title }}">
+                {% else %}
                 <img src="{{ post.featured_image }}" alt="{{ post.title }}">
+                {% endif %}
             </div>
 
             {{ post.excerpt }}
 
-            <p><a class="button" href="{{ post.url }}">Read more</a></p>
+            <p><a class="button" href="{{ site.baseurl }}/{{ post.url }}">Read more</a></p>
         </article>
     {% endfor %}
 
