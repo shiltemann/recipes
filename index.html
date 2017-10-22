@@ -6,10 +6,10 @@ title: Home
         <article class="post">
             {% include post-heading.html post=post %}
             <div class="image">
-                {% if post.image-local %}
-                <img src="{{ site.baseurl }}/images/{{ post.featured_image }}" alt="{{ post.title }}">
+                {% if post.image contains 'http' %}
+                <img src="{{ post.image }}" alt="{{ post.title }}">
                 {% else %}
-                <img src="{{ post.featured_image }}" alt="{{ post.title }}">
+                <img src="{{ site.baseurl }}/images/recipes/{{ post.image }}" alt="{{ post.title }}">
                 {% endif %}
             </div>
 

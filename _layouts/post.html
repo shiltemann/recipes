@@ -4,7 +4,11 @@ layout: default
 <article class="post">
     {% include post-heading.html post=page post_page=true %}
     <div class="image">
-        <img src="{{ page.featured_image }}" alt="{{ page.title }}">
+        {% if page.image contains 'http' %}
+        <img src="{{ page.image }}" alt="{{ page.title }}">
+        {% else %}
+        <img src="{{ site.baseurl }}/images/recipes/{{ page.image }}" alt="{{ page.title }}">
+        {% endif %}
     </div>
 
     <div class="recipe-body">
@@ -21,12 +25,12 @@ layout: default
     <div class="recipe-contents">
         <div class="ingredients">
             <h2>Ingredients</h2>
-            {{ page.recipe.ingredients_markdown | markdownify }}
+            {{ page.recipe.ingredients | markdownify }}
         </div>
 
         <div class="directions">
             <h2>Directions</h2>
-            {{ page.recipe.directions_markdown | markdownify }}
+            {{ page.recipe.directions | markdownify }}
         </div>
     </div>
 
