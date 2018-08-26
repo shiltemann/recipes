@@ -29,4 +29,4 @@ recipe:
     6. Stir in all the other ingredients and enjoy!
 ---
 
-Uit de volkskrant, lekker met naan!
+Also great the next day!
