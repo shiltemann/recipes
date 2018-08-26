@@ -22,7 +22,7 @@ recipe:
     * penne pasta
     * optional: 1 tablespoon of vermouth or sherry
   directions: |-
-    1. Cut the red onions and spring onions,
+    1. Cut the red onions and spring onions, and chop the garlic
     2. Fry up the garlic and red onion and the whiter half of the spring onions
     3. Add cream and crumble in the blue cheese while stirring and let thicken
     4. Optional: add vermouth/sherry
