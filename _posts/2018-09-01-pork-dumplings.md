@@ -14,18 +14,18 @@ recipe:
   cook: 30 minutes
   ingredients: |-
     * 1 package round dumpling/wonton/gyoza wrappers
-    * 1 medium head nappa cabbage
+    * 1/2 medium head nappa cabbage
     * 1 pound ground pork
-    * 1 bunch scallions, thinly sliced
-    * 1 bunch cilantro, minced
-    * 2 inch piece fresh ginger, finely grated
+    * 1 cup scallions, thinly sliced
+    * 1 cup cilantro, minced
+    * 3 tablespoons fresh ginger, finely grated
     * 2 tablespoons sesame oil
     * 3 tablespoons soy sauce
     * 1 tablespoon salt
     * 2 eggs, whisked
   directions: |-
     **Prep**
-    1. Slice the cabbage and mix with salt Slice the half-head of cabbage down its length, through the root, to make 2 quarters. Then slice each quarter into very thin strips, cutting cross-wise. Toss the slices with the salt in a large mixing bowl and set aside for 5 to 10 minutes.
+    1. Slice the cabbage and mix with salt. Slice the half-head of cabbage down its length, through the root, to make 2 quarters. Then slice each quarter into very thin strips, cutting cross-wise. Toss the slices with the salt in a large mixing bowl and set aside for 5 to 10 minutes.
     2. Squeeze the liquid from the cabbage. While it rests with the salt, the cabbage will start to release liquid. When it's ready, grab handfuls of the cabbage and squeeze out the water. Transfer the squeezed cabbage to another mixing bowl.Combine the cabbage with the rest of the filling ingredients To the bowl with the squeezed cabbage, add the ground pork, sliced scallions, cilantro, soy sauce, ginger, sesame oil, and eggs. Work the mixture together with your hands until fully combined.
     3. Combine the cabbage with the rest of the filling ingredients. To the bowl with the squeezed cabbage, add the ground pork, sliced scallions, cilantro, soy sauce, ginger, sesame oil, and eggs. Work the mixture together with your hands until fully combined.
     4. Arrange your dumpling-making station. Clear a large space on the counter. Set a small bowl of water, the bowl of filling, and a parchment-lined baking sheet nearby. Open the package of dumpling wrappers and arrange a few on the work space in front of you.
@@ -45,6 +45,6 @@ recipe:
 
 ---
 
-Also yummie with Thai peanut crunch salad!
+Also yummy with Thai peanut crunch salad!
 
 ![prep]({{ site.baseurl }}/images/recipes/dumpling.jpg)
