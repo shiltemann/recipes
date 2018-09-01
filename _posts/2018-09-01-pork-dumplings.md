@@ -1,7 +1,7 @@
 ---
 date: 2018-09-01
 title: Pork dumplings
-person: Mir (en von)
+person: Mir en Von
 categories:
   - Asian
   - Main Course
@@ -14,11 +14,11 @@ recipe:
   cook: 10 minutes
   ingredients: |-
     * 1 package round dumpling/wonton/gyoza wrappers
-    * 1 medium head nappa cabbage (+/- 1 pound)
+    * 1 medium head nappa cabbage
     * 1 pound ground pork
-    * 1 bunck scallions, thinly sliced (+/- 1 cup)
-    * 1 bunch cilantro, minced (+/- 3/4 cup)
-    * 2-inch piece fresh ginger, finely grated
+    * 1 bunch scallions, thinly sliced
+    * 1 bunch cilantro, minced 
+    * 2 inch piece fresh ginger, finely grated
     * 2 tablespoons sesame oil
     * 3 tablespoons soy sauce
     * 1 tablespoon salt
@@ -39,7 +39,7 @@ recipe:
     3. Cover the pan and lower the heat: Cover the pan immediately and reduce the heat to low. (If your skillet doesn't have a lid, cover with a baking sheet.)
     4. Cook the dumplings for 3 to 5 minutes if fresh, or 6 to 8 minutes if frozen: When done, the wrappers will appear translucent and noodle-like; the filling will be opaque and warmed through (you can cut one open to check).
     5. Transfer to a plate and serve: Transfer the cooked dumplings to a plate and serve with soy sauce or other dipping sauce.
-    Leftover filling: Depending on how generously you filled your dumplings, you may have a little filling left over. Leftover filling is fantastic formed into small meatballs or patties and fried in a skillet. Serve them on top of salad or stuffed into pitas.
+    6. Leftover filling Depending on how generously you filled your dumplings, you may have a little filling left over. Leftover filling is fantastic formed into small meatballs or patties and fried in a skillet. Serve them on top of salad or stuffed into pitas.
     ---
 
 ![recipe prep]({{ site.baseurl }}/images/recipes/dumpling.png)
