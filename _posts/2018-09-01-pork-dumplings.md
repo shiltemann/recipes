@@ -45,6 +45,6 @@ recipe:
 
 ---
 
-Super yum!
+Also yummie with Thai peanut crunch salad!
 
 ![prep]({{ site.baseurl }}/images/recipes/dumpling.jpg)
