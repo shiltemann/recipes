@@ -32,14 +32,13 @@ recipe:
     6. Dampen the edge of the wrapper with water: Dip your finger in the bowl of water and run it around the edge of the dumpling. This will help it to seal closed.
     7. Fold the dumpling in half: Lift the dumpling from the work surface and fold it in half. Press the top closed.
     8. Make a pleat in either side: Use your opposite thumbs to fold a tiny pleat on either side of the dumpling, then press firmly to seal the dumpling closed. You may need to dab a little water under the pleat to make it stick closed.
-    9. Repeat with all the wrappers and filling: Continue filling and pleating the rest of the wrappers using the remaining filling — this is where having a few extra hands comes in handy! As you finish each dumpling, line it up on the parchment-lined baking sheet.
-   Instructions for Cooking the Dumplings
-    1. Sear the dumplings in a skillet: Film a skillet with about a tablespoon of oil and warm over high heat. When the oil is shimmering, arrange the dumplings in the pan as close as they'll fit without actually touching. Cook until the bottoms have turned brown and golden.
-    2. Add 3 tablespoons of water to the pan: Pour 3 tablespoons of water in the pan — the water will immediately sizzle and begin to steam.
-    3. Cover the pan and lower the heat: Cover the pan immediately and reduce the heat to low. (If your skillet doesn't have a lid, cover with a baking sheet.)
-    4. Cook the dumplings for 3 to 5 minutes if fresh, or 6 to 8 minutes if frozen: When done, the wrappers will appear translucent and noodle-like; the filling will be opaque and warmed through (you can cut one open to check).
-    5. Transfer to a plate and serve: Transfer the cooked dumplings to a plate and serve with soy sauce or other dipping sauce.
-    6. Leftover filling Depending on how generously you filled your dumplings, you may have a little filling left over. Leftover filling is fantastic formed into small meatballs or patties and fried in a skillet. Serve them on top of salad or stuffed into pitas.
-    ---
+    9. Repeat with all the wrappers and filling. Continue filling and pleating the rest of the wrappers using the remaining filling — this is where having a few extra hands comes in handy! As you finish each dumpling, line it up on the parchment-lined baking sheet.
+    10. Film a skillet with about a tablespoon of oil and warm over high heat. When the oil is shimmering, arrange the dumplings in the pan as close as they'll fit without actually touching. Cook until the bottoms have turned brown and golden.
+    11. Pour 3 tablespoons of water in the pan — the water will immediately sizzle and begin to steam.
+    12. Cover the pan immediately and reduce the heat to low. (If your skillet doesn't have a lid, cover with a baking sheet.)
+    13. Cook the dumplings for 3 to 5 minutes if fresh, or 6 to 8 minutes if frozen. When done, the wrappers will appear translucent and noodle-like; the filling will be opaque and warmed through (you can cut one open to check).
+    14. Transfer the cooked dumplings to a plate and serve with soy sauce or other dipping sauce.
+    15. Leftover filling Depending on how generously you filled your dumplings, you may have a little filling left over. Leftover filling is fantastic formed into small meatballs or patties and fried in a skillet. Serve them on top of salad or stuffed into pitas.
+---
 
 ![recipe prep]({{ site.baseurl }}/images/recipes/dumpling.png)
