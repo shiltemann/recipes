@@ -7,7 +7,7 @@ categories:
   - Main Course
   - Side course
   - Pork
-image: dumplings_only.png
+image: dumplings_only.jpg
 recipe:
   servings: 60-70 dumplings
   prep: 10 minutes
