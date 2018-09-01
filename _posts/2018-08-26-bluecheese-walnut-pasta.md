@@ -1,13 +1,13 @@
 ---
 date: 2018-08-26
 title: Blue Cheese and Walnut Pasta
-person: Saskia
 categories:
   - Pasta
   - Main Course
   - Vegetarian
 image: bluecheese_walnut.png
 recipe:
+  person: Von en Sas
   servings: 2 people
   prep: 5 minutes
   cook: 10 minutes
