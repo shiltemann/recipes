@@ -41,4 +41,4 @@ recipe:
     15. Leftover filling Depending on how generously you filled your dumplings, you may have a little filling left over. Leftover filling is fantastic formed into small meatballs or patties and fried in a skillet. Serve them on top of salad or stuffed into pitas.
 ---
 
-![recipe prep]({{ site.baseurl }}/images/recipes/dumpling.png)
+![recipe prep]({{ site.baseurl }}/images/recipes/dumpling.jpg)
