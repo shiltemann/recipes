@@ -1,0 +1,26 @@
+---
+sudo: required
+language: python
+python: 3.6
+
+install:
+  - sudo apt-get update
+  - sudo update-ca-certificates
+  - pip install yamllint
+  - gem install bundler
+  - bundle install
+  - bundle update
+
+script:
+  # Check website
+  - |
+    set -e
+    yamllint .
+    bundle exec jekyll build
+
+after_success:
+  - |
+    if [ "$TRAVIS_PULL_REQUEST" == "false" -a "$TRAVIS_BRANCH" == "master" ]
+    then
+      bin/publish
+    fi
