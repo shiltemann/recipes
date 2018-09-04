@@ -2,8 +2,24 @@ Instructies voor het toevoegen van recepten aan de recepten site :D
 
 ## Preview maken
 
+### met Atom
+Open terminal (`+` icoontje links onder)
 
-Open terminal (rode icoontje links boven op menu bar)
+Dan om preview van de website te maken, typ je in terminal:
+
+```
+make preview
+```
+
+open een browser en vul als url in:
+
+```
+localhost:4000/recipes/
+```
+
+### zonder Atom
+
+Open terminal (rode icoontje linksbovenaan menubar)
 
 Type het volgende commando in om naar de folder met recepten te gaan:
 
@@ -78,6 +94,8 @@ Als je blij bent met het recept kun je het uploaden, dit kan op 2 manieren:
 
 
 2. **Via computer**
+
+   Tip: je kunt in atom een tweede terminal beginnen met `+` knopje (als eerste terminal open is)
 
    - type de volgend commandos:
 
