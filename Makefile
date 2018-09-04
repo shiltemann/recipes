@@ -4,3 +4,6 @@ install:
 
 preview:
 	bundle exec jekyll serve
+
+clean:
+	rm -rf _site
