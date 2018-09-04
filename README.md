@@ -8,11 +8,12 @@ Just a place for me to keep track of recipes (mostly my family's)
 
 Log in to [GitHub](https://github.com) and go to the [recipes repository](https://github.com/shiltemann/recipes)
 
-**Upload pictures**
-Go to `images/recipes/` and click "Upload Files". Upload your photo(s) and remember the name you gave it.
 
 **Add recipe**
-Go to `_posts`/ and click on "New File". Make sure the name is in the format `YYYY-MM-DD-dishname.md`. You can copy the file `2222-01-01-example.md` to get started and just change it for your recipe.
+Go to `recipes` and click on "New File". Make sure the name is in the format `YYYY-MM-DD-dishname.md`. You can copy the file `2222-01-01-example.md` to get started and just change it for your recipe.
+
+**Upload pictures**
+Go to `recipes/images` and click "Upload Files". Upload your photo(s) and remember the name you gave it.
 
 
 ### Via computer

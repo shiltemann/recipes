@@ -46,4 +46,4 @@ recipe:
 
 Also yummy with Thai peanut crunch salad!
 
-![prep]({{ site.baseurl }}/images/recipes/dumpling.jpg)
+![prep]({{ site.baseurl }}/recipes/images/dumpling.jpg)
