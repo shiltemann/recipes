@@ -42,6 +42,10 @@ make install
 ls  = list files in current directory
 pwd = check which directory we are in (print working directory)
 cd  = change directory
+
+git status -> zie welke files veranderd zijn
+git diff <filenaam> -> zie precieze veranderingen in de file
+git checkout <filenaam> -> gooi alle veranderingen van file weg
 ```
 
 

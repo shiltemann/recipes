@@ -1,7 +1,7 @@
 Instructies voor het toevoegen van recepten aan de recepten site :D
 
-Preview maken
-#############
+## Preview maken
+
 
 Open terminal (rode icoontje links boven op menu bar)
 
@@ -26,6 +26,8 @@ localhost:4000/recipes/
 
 Om een text editor te starten:
 
+(rechter muisknop in terminal en *split horizonally* om terminal te splitsen)
+
 ```
 atom .
 ```
@@ -33,8 +35,8 @@ atom .
 
 
 
-Recept maken
-############
+## Recept maken
+
 Tip: doe voor je begint een `make update` om site up-to-date te maken.
 
 **Fotos**
@@ -54,8 +56,7 @@ Tip: doe voor je begint een `make update` om site up-to-date te maken.
 Tip: in Atom, file saven: `CTRL+S`
 
 
-Recept Uploaden
-###############
+## Recept Uploaden
 
 Als je blij bent met het recept kun je het uploaden, dit kan op 2 manieren:
 
@@ -90,8 +91,8 @@ Als je blij bent met het recept kun je het uploaden, dit kan op 2 manieren:
   - Als je deze manier fijn vindt, dan altijd voordat je begint met je     recept toe te voegen, eerst de site updaten: `make update`
 
 
-Site updaten
-############
+## Site updaten
+
 Als andere mensen recepten hebben toegevoegd en je wilt die in je preview zien moet je eerst de site updaten:
 
 ```
@@ -100,4 +101,16 @@ make update
 
 Doe dit altijd als je via de computer je recept wil gaan uploaden!
 
-Eet smakelijk!
+#### Handy linux commands
+
+```
+ls  = list files in current directory
+pwd = check which directory we are in (print working directory)
+cd  = change directory
+
+git status -> zie welke files veranderd zijn
+git diff <filenaam> -> zie precieze veranderingen in de file
+git checkout <filenaam> -> gooi alle veranderingen van file weg
+```
+
+## Eet smakelijk!
