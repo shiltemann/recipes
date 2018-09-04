@@ -1,10 +1,79 @@
 # Recipes
 
-Just a place for me to keep track of recipes (mostly mom's)
+Just a place for me to keep track of recipes (mostly my family's)
 
-Based on template: https://github.com/CloudCannon/treat-jekyll-template
+## Adding Recipes
+
+### Via the web
+
+Log in to [GitHub](https://github.com) and go to the [recipes repository](https://github.com/shiltemann/recipes)
+
+**Upload pictures**
+Go to `images/recipes/` and click "Upload Files". Upload your photo(s) and remember the name you gave it.
+
+**Add recipe**
+Go to `_posts`/ and click on "New File". Make sure the name is in the format `YYYY-MM-DD-dishname.md`. You can copy the file `2222-01-01-example.md` to get started and just change it for your recipe.
+
+
+### Via computer
+
+Add image and recipe file in the right place (see previous section)
+
+**Preview the website**
+
+Open the terminal and go to location of the recipes repository
+
+```
+cd recipes
+```
+
+then start preview by:
+
+```
+make preview
+```
+
+Open your browser and type `localhost:4000/recipes/` in the address bar
+
+If everything looks good, upload your changes as follows (can also just upload via the browser like described in section above)
+
+```
+git add images/recipes/<name-of-your-image-file>
+git add _posts/<name-of-your-recipe-file>
+git commit -m "added recipe for <blabla>"
+git push
+```
+
+within about 5 minutes orso you should be able to see your changes come online
+
+
+
+## Setup
+
+First-time setup:
+
+**Clone the repository**
+
+Open terminal and go to location where you want to clone the recipes (`cd` to change directory, `pwd` to see where you are now, `cd ../` to go up one directory)
+
+Then clone the repository:
+
+```
+git clone https://github.com/shiltemann/recipes recipes
+cd recipes
+```
+
+Install the dependencies
+
+```
+make install
+```
+
+
 
 ## Treat
+
+Based on template: https://github.com/CloudCannon/treat-jekyll-template
 
 Food/baking blog template for Jekyll. Browse through a [live demo](https://spring-bat.cloudvent.net/).
 
@@ -15,29 +84,10 @@ Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
 
 Learn Jekyll with step-by-step tutorials and videos at [Jekyll Tips](http://jekyll.tips/).
 
-### Features
 
-* Contact form
-* Pre-built pages
-* Pre-styled components
-* Blog with pagination
-* Disqus comments for posts
-* Configurable sidebar
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
 
-### Setup
 
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics, Disqus and MailChimp keys to `_config.yml`.
-3. Add your details to `_data/sidebar.yml`
-4. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
-
-### Develop
-
-Treat was built with [Jekyll](http://jekyllrb.com/) version 3.4.3, but should support newer versions as well.
+## Develop
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
@@ -51,27 +101,17 @@ Run `jekyll` commands through Bundler to ensure you're using the right versions:
 $ bundle exec jekyll serve
 ~~~
 
-### Editing
 
-Treat is already optimised for adding, updating and removing recipes, navigation, page content, and sidebar information in CloudCannon.
+## Credits
 
-#### Posts/Recipes
+Based on template: https://github.com/CloudCannon/treat-jekyll-template
 
-* Add, update or remove a post in the *Posts* collection.
-* The recipes page is organised by categories.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
+Food/baking blog template for Jekyll. Browse through a [live demo](https://spring-bat.cloudvent.net/).
 
-#### Contact Form
+![Treat template screenshot](images/_screenshot.png)
 
-* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
-* Sends email to the address listed in company details.
+Treat was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
+Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
 
-#### Navigation
+Learn Jekyll with step-by-step tutorials and videos at [Jekyll Tips](http://jekyll.tips/).
 
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Navigation* section.
-
-#### Footer
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Footer* section.
