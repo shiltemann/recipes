@@ -1,10 +1,11 @@
 ---
 date: 2018-09-30
-title: Chili
+title: Vegetarian Chili
 person: Helena
 categories:
   - Main Course
   - Vegetarian
+  - Slowcooker
 image: chili.png
 recipe:
   servings: 2 portions
