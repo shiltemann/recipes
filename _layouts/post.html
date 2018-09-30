@@ -19,7 +19,12 @@ layout: default
         <li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
         <li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
         <li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
-        {% if page.recipe.person %}<li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.recipe.person }}</span></li>{% endif %}
+
+        {% if page.recipe.person %}
+            <li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.recipe.person }}</span></li>
+        {% else if page.person %}
+            <li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.person }}</span></li>
+        {% endif %}
     </ul>
     {% if page.recipe.url %}
     <p>This meal was inspired by <a href="{{ page.recipe.url }}">this</a> recipe.</p>
