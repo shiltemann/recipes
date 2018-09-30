@@ -5,7 +5,7 @@ person: Helena
 categories:
   - Main Course
   - Vegetarian
-image: {{ site.baseurl }}/recipes/images/chili.png
+image: chili.png
 recipe:
   servings: 2 portions
   prep: 15 minutes
