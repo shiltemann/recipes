@@ -7,7 +7,7 @@ image: quiche.jpg
 recipe:
   person: Wendy
   servings: 4
-  prep: 15 minutes
+  prep: 16 minutes
   cook: 25 minutes
   ingredients: |-
     * 1 rond quiche deeg kant en klaar
