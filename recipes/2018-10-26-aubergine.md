@@ -32,4 +32,21 @@ recipe:
     **Serving**
     1. Add some grated cheddar
     2. Add a dollop of sour cream (more if you've made it too spicy)
+
 ---
+
+Hier is stap 1:
+
+![]({{ site.baseurl }}/recipes/images/aubergine_stap1.jpg)
+
+en hier 2:
+
+![]({{ site.baseurl }}/recipes/images/aubergine_stap2.jpg)
+
+lekker leuk:
+
+![]({{ site.baseurl }}/recipes/images/aubergine_stap3.jpg)
+
+nu klaar:
+
+![]({{ site.baseurl }}/recipes/images/aubergine_af.png)
