@@ -29,4 +29,4 @@ recipe:
     6. Stir in all the other ingredients and enjoy!
 ---
 
-Also great the next day!
+Also great the next day! Tip for reheating: take the cherry tomatoes out (they don't reheat well) and stir in some more cream cheese (if none left, add some water) before reheating in the microwave or pan.

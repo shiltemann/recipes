@@ -35,4 +35,20 @@ recipe:
 
     **Serving**
     1. Make sure to have some of the leftover yoghurt, mintoil and almond slices on the side because you're going to want more!
----
+
+
+Hier is stap 1:
+
+![]({{ site.baseurl }}/recipes/images/aubergine_stap1.jpg)
+
+en hier 2:
+
+![]({{ site.baseurl }}/recipes/images/aubergine_stap2.jpg)
+
+lekker leuk:
+
+![]({{ site.baseurl }}/recipes/images/aubergine_stap3.jpg)
+
+nu klaar:
+
+![]({{ site.baseurl }}/recipes/images/aubergine_af.png)
