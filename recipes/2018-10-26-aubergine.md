@@ -35,7 +35,7 @@ recipe:
 
 
     **Serving**
-   Make sure to have some of the leftover garlic-yoghurt, mintoil and almond slices on the side because you're going to want more!
+    Make sure to have some of the leftover garlic-yoghurt, mintoil and almond slices on the side because you're going to want more!
 
 ---
 
