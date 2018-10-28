@@ -24,18 +24,19 @@ recipe:
     1. Preheat the oven at 200C/400F.
     2. Slice the aubergines in half lengthwise. Make sure to leave the stems on.
     3. Score the flesh of the aubergines with deep diagonal slices. Put the aubergine halves face-up on an oven pan.
-    4. Cut the red chili into thin slices and distribute onto the halved aubergines. 
+    4. Cut the red chili into thin slices and distribute onto the halved aubergines.
     5. Brush the top of the aubergines with oil and sprinkle with the thyme, and some salt and peper to taste.
     6. Bake for 30-40 minutes.
     7. While the aubergines are cooking, roast the almond slices in a pan without any oil or butter until golden.
     8. Mince the garlic and stir it into the Greek yoghurt.
     9. Blend the mint leaves and 1-2 tablespoons of oil into a puree.
     10. When the Aubergines are done, take them out of the oven and spoon on the garlicy yoghurt. Drizzle with the mintoil and sprinkle with the roasted almond slices.
-    
+
 
     **Serving**
     1. Make sure to have some of the leftover yoghurt, mintoil and almond slices on the side because you're going to want more!
 
+---
 
 Hier is stap 1:
 
