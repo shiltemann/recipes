@@ -57,4 +57,4 @@ Step 4: Add garlic-yoghurt, mintoil, and roasted almonds and you're done! Enjoy!
 
 ![]({{ site.baseurl }}/recipes/images/aubergine_af.png)
 
-See the full recipe and directions below.
+
