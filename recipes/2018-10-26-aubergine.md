@@ -35,22 +35,26 @@ recipe:
 
 
     **Serving**
-    1. Make sure to have some of the leftover garlic-yoghurt, mintoil and almond slices on the side because you're going to want more!
+    Make sure to have some of the leftover garlic-yoghurt, mintoil and almond slices on the side because you're going to want more!
 
 ---
 
-Hier is stap 1:
+Make this yummie recipe in 4 easy steps!
+
+Step 1: halve and score the aubergines
 
 ![]({{ site.baseurl }}/recipes/images/aubergine_stap1.jpg)
 
-en hier 2:
+Step 2: add sliced red chili, thyme, salt and pepper and brush with oil
 
 ![]({{ site.baseurl }}/recipes/images/aubergine_stap2.jpg)
 
-lekker leuk, net uit de oven:
+Step 3: Bake for 30-40 minutes
 
 ![]({{ site.baseurl }}/recipes/images/aubergine_stap3.jpg)
 
-nu klaar:
+Step 4: Add garlic-yoghurt, mintoil, and roasted almonds and you're done! Enjoy!
 
 ![]({{ site.baseurl }}/recipes/images/aubergine_af.png)
+
+See the full recipe and directions below.
