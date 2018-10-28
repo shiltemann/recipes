@@ -33,6 +33,7 @@ recipe:
     10. When the Aubergines are done, take them out of the oven and spoon on the garlicky yoghurt. Drizzle with the mintoil and sprinkle with the roasted almond slices.
     11. Eet smakelijk!
 
+
     **Serving**
     1. Make sure to have some of the leftover garlic-yoghurt, mintoil and almond slices on the side because you're going to want more!
 
