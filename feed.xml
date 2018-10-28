@@ -1,51 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="https://shiltemann.github.io/recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shiltemann.github.io/recipes/" rel="alternate" type="text/html" /><updated>2018-10-27T22:34:43+00:00</updated><id>https://shiltemann.github.io/recipes/</id><title type="html">Recipes</title><subtitle>Family Recipes.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Aubergine</title><link href="https://shiltemann.github.io/recipes/2018/10/26/aubergine/" rel="alternate" type="text/html" title="Aubergine" /><published>2018-10-26T00:00:00+00:00</published><updated>2018-10-26T00:00:00+00:00</updated><id>https://shiltemann.github.io/recipes/2018/10/26/aubergine</id><content type="html" xml:base="https://shiltemann.github.io/recipes/2018/10/26/aubergine/">&lt;hr /&gt;
-&lt;p&gt;date: 2018-10-27
-title: Aubergines uit de oven
-person: Vonnie
-categories:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Vegetarian&lt;/li&gt;
-  &lt;li&gt;Side dish
-image: aubergine_af.png
-recipe:
-  servings: 4 portions
-  prep: 20 minutes
-  cook: 40 minutes
-  ingredients: |-
-    &lt;ul&gt;
-      &lt;li&gt;a bunch of oil&lt;/li&gt;
-      &lt;li&gt;2 aubergines&lt;/li&gt;
-      &lt;li&gt;1 red chili pepper&lt;/li&gt;
-      &lt;li&gt;2 tablespoons dried thyme (or as much as you want)&lt;/li&gt;
-      &lt;li&gt;30 grams sliced almonds (or as much as you want)&lt;/li&gt;
-      &lt;li&gt;15 grams fresh mint&lt;/li&gt;
-      &lt;li&gt;2-3 little toes (haha get it) garlic&lt;/li&gt;
-      &lt;li&gt;300 grams Greek yoghurt
-directions: |-
-&lt;strong&gt;Prep&lt;/strong&gt;
-        &lt;ol&gt;
-          &lt;li&gt;Preheat the oven at 200C/400F.&lt;/li&gt;
-          &lt;li&gt;Slice the aubergines in half lengthwise. Make sure to leave the stems on.&lt;/li&gt;
-          &lt;li&gt;Score the flesh of the aubergines with deep diagonal slices. Put the aubergine halves face-up on an oven pan.&lt;/li&gt;
-          &lt;li&gt;Cut the red chili into thin slices and distribute onto the halved aubergines.&lt;/li&gt;
-          &lt;li&gt;Brush the top of the aubergines with oil and sprinkle with the thyme, and some salt and peper to taste.&lt;/li&gt;
-          &lt;li&gt;Bake for 30-40 minutes.&lt;/li&gt;
-          &lt;li&gt;While the aubergines are cooking, roast the almond slices in a pan without any oil or butter until golden.&lt;/li&gt;
-          &lt;li&gt;Mince the garlic and stir it into the Greek yoghurt.&lt;/li&gt;
-          &lt;li&gt;Blend the mint leaves and 1-2 tablespoons of oil into a puree.&lt;/li&gt;
-          &lt;li&gt;When the Aubergines are done, take them out of the oven and spoon on the garlicy yoghurt. Drizzle with the mintoil and sprinkle with the roasted almond slices.&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;&lt;strong&gt;Serving&lt;/strong&gt;&lt;/p&gt;
-    &lt;ol&gt;
-      &lt;li&gt;Make sure to have some of the leftover yoghurt, mintoil and almond slices on the side because you’re going to want more!&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Hier is stap 1:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="https://shiltemann.github.io/recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shiltemann.github.io/recipes/" rel="alternate" type="text/html" /><updated>2018-10-28T15:48:19+00:00</updated><id>https://shiltemann.github.io/recipes/</id><title type="html">Recipes</title><subtitle>Family Recipes.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Aubergines uit de oven</title><link href="https://shiltemann.github.io/recipes/vegetarian/side%20dish/2018/10/27/aubergine/" rel="alternate" type="text/html" title="Aubergines uit de oven" /><published>2018-10-27T00:00:00+00:00</published><updated>2018-10-27T00:00:00+00:00</updated><id>https://shiltemann.github.io/recipes/vegetarian/side%20dish/2018/10/27/aubergine</id><content type="html" xml:base="https://shiltemann.github.io/recipes/vegetarian/side%20dish/2018/10/27/aubergine/">&lt;p&gt;Hier is stap 1:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/recipes/recipes/images/aubergine_stap1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -59,7 +12,7 @@ directions: |-
 
 &lt;p&gt;nu klaar:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/recipes/recipes/images/aubergine_af.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">date: 2018-10-27 title: Aubergines uit de oven person: Vonnie categories: Vegetarian Side dish image: aubergine_af.png recipe: servings: 4 portions prep: 20 minutes cook: 40 minutes ingredients: |- a bunch of oil 2 aubergines 1 red chili pepper 2 tablespoons dried thyme (or as much as you want) 30 grams sliced almonds (or as much as you want) 15 grams fresh mint 2-3 little toes (haha get it) garlic 300 grams Greek yoghurt directions: |- Prep Preheat the oven at 200C/400F. Slice the aubergines in half lengthwise. Make sure to leave the stems on. Score the flesh of the aubergines with deep diagonal slices. Put the aubergine halves face-up on an oven pan. Cut the red chili into thin slices and distribute onto the halved aubergines. Brush the top of the aubergines with oil and sprinkle with the thyme, and some salt and peper to taste. Bake for 30-40 minutes. While the aubergines are cooking, roast the almond slices in a pan without any oil or butter until golden. Mince the garlic and stir it into the Greek yoghurt. Blend the mint leaves and 1-2 tablespoons of oil into a puree. When the Aubergines are done, take them out of the oven and spoon on the garlicy yoghurt. Drizzle with the mintoil and sprinkle with the roasted almond slices.</summary></entry><entry><title type="html">Easy Veggie Chili</title><link href="https://shiltemann.github.io/recipes/main%20course/vegetarian/slowcooker/2018/09/30/helenas-chili/" rel="alternate" type="text/html" title="Easy Veggie Chili" /><published>2018-09-30T00:00:00+00:00</published><updated>2018-09-30T00:00:00+00:00</updated><id>https://shiltemann.github.io/recipes/main%20course/vegetarian/slowcooker/2018/09/30/helenas-chili</id><content type="html" xml:base="https://shiltemann.github.io/recipes/main%20course/vegetarian/slowcooker/2018/09/30/helenas-chili/"></content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shiltemann.github.io/recipes/chili.png" /></entry><entry><title type="html">Pork dumplings</title><link href="https://shiltemann.github.io/recipes/asian/main%20course/side%20dish/2018/09/01/pork-dumplings/" rel="alternate" type="text/html" title="Pork dumplings" /><published>2018-09-01T00:00:00+00:00</published><updated>2018-09-01T00:00:00+00:00</updated><id>https://shiltemann.github.io/recipes/asian/main%20course/side%20dish/2018/09/01/pork-dumplings</id><content type="html" xml:base="https://shiltemann.github.io/recipes/asian/main%20course/side%20dish/2018/09/01/pork-dumplings/">&lt;p&gt;Also yummy with Thai peanut crunch salad!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/recipes/recipes/images/aubergine_af.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Hier is stap 1:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shiltemann.github.io/recipes/aubergine_af.png" /></entry><entry><title type="html">Easy Veggie Chili</title><link href="https://shiltemann.github.io/recipes/main%20course/vegetarian/slowcooker/2018/09/30/helenas-chili/" rel="alternate" type="text/html" title="Easy Veggie Chili" /><published>2018-09-30T00:00:00+00:00</published><updated>2018-09-30T00:00:00+00:00</updated><id>https://shiltemann.github.io/recipes/main%20course/vegetarian/slowcooker/2018/09/30/helenas-chili</id><content type="html" xml:base="https://shiltemann.github.io/recipes/main%20course/vegetarian/slowcooker/2018/09/30/helenas-chili/"></content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shiltemann.github.io/recipes/chili.png" /></entry><entry><title type="html">Pork dumplings</title><link href="https://shiltemann.github.io/recipes/asian/main%20course/side%20dish/2018/09/01/pork-dumplings/" rel="alternate" type="text/html" title="Pork dumplings" /><published>2018-09-01T00:00:00+00:00</published><updated>2018-09-01T00:00:00+00:00</updated><id>https://shiltemann.github.io/recipes/asian/main%20course/side%20dish/2018/09/01/pork-dumplings</id><content type="html" xml:base="https://shiltemann.github.io/recipes/asian/main%20course/side%20dish/2018/09/01/pork-dumplings/">&lt;p&gt;Also yummy with Thai peanut crunch salad!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/recipes/recipes/images/dumpling.jpg&quot; alt=&quot;prep&quot; /&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Also yummy with Thai peanut crunch salad!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shiltemann.github.io/recipes/dumplings_only.jpg" /></entry><entry><title type="html">Zomerpasta</title><link href="https://shiltemann.github.io/recipes/pasta/main%20course/vegetarian/2018/08/26/zomerpasta/" rel="alternate" type="text/html" title="Zomerpasta" /><published>2018-08-26T00:00:00+00:00</published><updated>2018-08-26T00:00:00+00:00</updated><id>https://shiltemann.github.io/recipes/pasta/main%20course/vegetarian/2018/08/26/zomerpasta</id><content type="html" xml:base="https://shiltemann.github.io/recipes/pasta/main%20course/vegetarian/2018/08/26/zomerpasta/">&lt;p&gt;Also great the next day! Tip for reheating: take the cherry tomatoes out (they don’t reheat well) and stir in some more cream cheese (if none left, add some water) before reheating in the microwave or pan.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Also great the next day! Tip for reheating: take the cherry tomatoes out (they don’t reheat well) and stir in some more cream cheese (if none left, add some water) before reheating in the microwave or pan.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shiltemann.github.io/recipes/zomerpasta.png" /></entry><entry><title type="html">Blue Cheese and Walnut Pasta</title><link href="https://shiltemann.github.io/recipes/pasta/main%20course/vegetarian/2018/08/26/bluecheese-walnut-pasta/" rel="alternate" type="text/html" title="Blue Cheese and Walnut Pasta" /><published>2018-08-26T00:00:00+00:00</published><updated>2018-08-26T00:00:00+00:00</updated><id>https://shiltemann.github.io/recipes/pasta/main%20course/vegetarian/2018/08/26/bluecheese-walnut-pasta</id><content type="html" xml:base="https://shiltemann.github.io/recipes/pasta/main%20course/vegetarian/2018/08/26/bluecheese-walnut-pasta/">&lt;p&gt;Inspired by Vapiano&lt;/p&gt;
 
