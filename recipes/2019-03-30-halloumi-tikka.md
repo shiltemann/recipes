@@ -18,26 +18,26 @@ recipe:
     * Tomato puree
     * Canned chopped tomatoes
     * Creme fraiche
-    * 3 tsp Garam Masala (to taste)
+    * 2 tsp Garam Masala (more to taste)
     * 2 tsp Kurkuma
     * 2 tsp Coriander
     * 2 tsp Cumin seeds
     * 1 Cinnamon stick
     * 4/5 Cardemom pods (to taste)
     * Almond flakes
-    * Fresh Coriander for garnish
+    * Fresh coriander for garnish
     * Rice and/or Nan bread
   directions: |-
     1. Prepare the rice and/or nan to instructions
     2. Cut the onions, halloumi, garlic, red pepper and ginger
     3. Heat some oil in a pan, and fry the onions
-    4. Add garlic and chili
+    4. Add garlic, ginger and chili
     5. Add spices and simmer for a few minutes
     6. Add tomato puree, chopped tomatoes
     7. Add the cinnamon stick and cardemom pods and let simmer
     8. In a separate pan, fry the halloumi in oil until golden brown, and add to the sauce
     9. In a dry pan, roast the shaved almonds. Add half to the sauce, save other half for garnish
-
+    10. Serve with rice/nan and garnish with coriander and shaved almonds
 ---
 
 Step 1
