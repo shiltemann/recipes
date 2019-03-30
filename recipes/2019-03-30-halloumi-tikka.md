@@ -19,7 +19,7 @@ recipe:
     * Canned chopped tomatoes
     * Creme fraiche
     * 2 tsp Garam Masala (more to taste)
-    * 2 tsp Kurkuma
+    * 2 tsp Tumeric (Kurkuma)
     * 2 tsp Coriander
     * 2 tsp Cumin seeds
     * 1 Cinnamon stick
