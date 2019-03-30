@@ -11,9 +11,7 @@ layout: default
         {% endif %}
     </div>
 
-    <div class="recipe-body">
-        {{ content }}
-    </div>
+
 
     <ul id="recipe" class="recipe-overview">
         <li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
@@ -41,6 +39,9 @@ layout: default
         </div>
     </div>
 
+     <div class="recipe-body">
+        {{ content }}
+    </div>
 
 </article>
 
