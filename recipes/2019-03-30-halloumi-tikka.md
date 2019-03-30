@@ -28,7 +28,7 @@ recipe:
     * Fresh Coriander for garnish
     * Rice and/or Nan bread
   directions: |-
-    1. Cook the rice to instructions and/or bake the nan in the oven
+    1. Prepare the rice and/or nan to instructions
     2. Cut the onions, halloumi, garlic, red pepper and ginger
     3. Heat some oil in a pan, and fry the onions
     4. Add garlic and chili
