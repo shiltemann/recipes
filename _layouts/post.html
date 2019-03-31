@@ -45,6 +45,27 @@ layout: default
 
 </article>
 
+
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Recipe",
+      "name": "{{ page.title }}",
+      "author": "{{ page.person }}",
+      "prepTime": "{{ page.recipe.prep }}",
+      "cookTime": "{{ page.recipe.cook }}",
+      "datePublished": "{{ page.date }}",
+      {% if page.description %}
+      "description": "{{ page.description }}",
+      {% endif %}
+      "image": "{{ site.baseurl }}/{{ page.image }}",
+      "recipeIngredient": {{ page.recipe.ingredients }},
+      "recipeInstructions": "{{ page.recipe.directions }}",
+      "recipeYield": "{{ page.recipe.servings }}"
+    }
+</script>
+
+
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/js/jquery.imgPin.min.js"></script>
 <script>
