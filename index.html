@@ -5,6 +5,7 @@ title: Home
     {% for post in paginator.posts %}
         <article class="post">
             {% include post-heading.html post=post %}
+            <a href="{{ site.baseurl }}{{ post.url }}">
             <div class="image">
                 {% if post.image contains 'http' %}
                 <img src="{{ post.image }}" alt="{{ post.title }}">
@@ -12,7 +13,7 @@ title: Home
                 <img src="{{ site.baseurl }}/recipes/images/{{ post.image }}" alt="{{ post.title }}">
                 {% endif %}
             </div>
-
+            </a>
             {{ post.excerpt }}
 
             <p><a class="button" href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
