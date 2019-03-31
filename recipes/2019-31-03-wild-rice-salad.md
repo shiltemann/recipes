@@ -5,34 +5,55 @@ person: Von and Mom
 categories:
   - Vegetarian
   - Salad
-image: wild_rice_salad/served.jpg
+image: wild_rice_salad/served2.jpg
 recipe:
   servings: 4
   prep: 30 minutes
   cook: 0 minutes
   ingredients: |-
-    * 1 cup wild rice (or red rice)
+    * 1 cup rice (red, wild, nutty or a mix)
     * 1/2 tsp salt
     * black pepper
     * 1/2 tsp orange zest
-    * 1/4 cup fresh orange juice
+    * juice from 1 orange
     * 3 tbsp apple cider vinegar
     * 2 tbsp honey
     * 1 tbsp mustard
     * 1 cup chopped pecans
     * 1/2 cup dried cranberries
-    * 1/4 cup pumpkin seeds
+    * 1/4 cup seeds (e.g. pumpkin)
     * 1/2 cup fresh parsley
     * 2 diced celery stalks
     * 1 diced apple
     * 2 chopped spring onions
   directions: |-
     1. Cook the rice and let cool off
-    2. Whisk together zest, orange juice, oil, vinegar, honey, mustard, pepper, and salt
-    3. Add cooled rice, pecans, cranberries, pumpkin seeds, parsley, celery, apple, and spring onion
+    2. Chop the apple, celery, spring onions, and parsley
+    3. Toast the pecans in the oven for a couple of minutes
+    4. Toast the seeds in the oven for a few minutes
+    5. Dressing: whisk together zest, orange juice, oil, vinegar, honey, mustard, pepper, and salt
+    6. Add cooled rice, pecans, cranberries, pumpkin seeds, parsley, celery, apple, and spring onion
 
 ---
 
 mmmmaaltijd salade!
 
-adjust ratios to taste
+Tip: adjust ratios to taste
+
+1: Chop the fruits and veggies:
+
+![]({{ site.baseurl }}/recipes/images/wild_rice_salad/greens.jpg)
+
+2: Make the dressing:
+
+![]({{ site.baseurl }}/recipes/images/wild_rice_salad/dressing.jpg)
+
+3: Toast the pecans and seeds:
+
+![]({{ site.baseurl }}/recipes/images/wild_rice_salad/pecans.jpg){: width="50%"}
+![]({{ site.baseurl }}/recipes/images/wild_rice_salad/nuts.jpg){: width="44%"}
+
+4: Enjoy!
+
+![]({{ site.baseurl }}/recipes/images/wild_rice_salad/served2.jpg)
+
