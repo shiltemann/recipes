@@ -7,7 +7,7 @@ categories:
   - Vegetarian
   - Main Course
   - Slowcooker
-image: pumpkin-curry-small.jpg
+image: recipes/images/pumpkin-curry-small.jpg
 recipe:
   servings: 4 people
   prep: 20 minutes

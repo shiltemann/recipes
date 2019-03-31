@@ -5,7 +5,7 @@ person: Von and Mom
 categories:
   - Vegetarian
   - Salad
-image: wild_rice_salad/served2.jpg
+image: recipes/images/wild_rice_salad/served2.jpg
 recipe:
   servings: 4
   prep: 30 minutes

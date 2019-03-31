@@ -5,7 +5,7 @@ categories:
   - Asian
   - Main Course
   - Side dish
-image: dumplings_only.jpg
+image: recipes/images/dumplings_only.jpg
 recipe:
   person: Mir and Von
   servings: "60-70 dumplings"

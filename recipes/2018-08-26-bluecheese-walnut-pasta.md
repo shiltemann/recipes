@@ -5,7 +5,7 @@ categories:
   - Pasta
   - Main Course
   - Vegetarian
-image: bluecheese_walnut.png
+image: recipes/images/bluecheese_walnut.png
 recipe:
   person: Von en Sas
   servings: 2 people

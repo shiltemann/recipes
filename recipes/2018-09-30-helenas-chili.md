@@ -6,7 +6,7 @@ categories:
   - Main Course
   - Vegetarian
   - Slowcooker
-image: chili.png
+image: recipes/images/chili.png
 recipe:
   servings: 2 portions
   prep: 15 minutes

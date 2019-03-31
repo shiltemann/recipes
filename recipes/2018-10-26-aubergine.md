@@ -5,7 +5,7 @@ person: Vonnie
 categories:
   - Vegetarian
   - Side dish
-image: aubergine_af.png
+image: recipes/images/aubergine_af.png
 recipe:
   servings: 4 portions
   prep: 20 minutes

@@ -3,7 +3,7 @@ date: 2017-10-22
 title: Wendy's Quiche Lorraine
 categories:
   - Snacks
-image: quiche.jpg
+image: recipes/images/quiche.jpg
 recipe:
   person: Wendy
   servings: 4

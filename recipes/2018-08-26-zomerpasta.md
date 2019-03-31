@@ -5,7 +5,7 @@ categories:
   - Pasta
   - Main Course
   - Vegetarian
-image: zomerpasta.png
+image: recipes/images/zomerpasta.png
 recipe:
   person: Cintia
   servings: 4 people
