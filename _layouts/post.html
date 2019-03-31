@@ -65,6 +65,15 @@ layout: default
     }
 </script>
 
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ page.title }}" />
+{% if page.desctiption %}
+<meta property="og:description" content="{{ page.desctiption }}" />
+{% endif %}
+<meta property="article:published_time" content="{{ page.date }}" />
+<meta property="og:site_name" content="Family Recipes" />
+<meta property="og:image" content="{{ site.baseurl }}/{{ page.image }}" />
+
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/js/jquery.imgPin.min.js"></script>
