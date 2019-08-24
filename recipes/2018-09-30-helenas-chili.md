@@ -21,6 +21,8 @@ recipe:
     * A couple gloves of garlic
     * 50g Yellow Cheddar
     * Sour cream
+    * Optional: bell pepper, celery, corn
+    * Garnish: cilantro, avocado
   directions: |-
     **Prep**
     1. Put a pot on low heat / set up your slow cooker
