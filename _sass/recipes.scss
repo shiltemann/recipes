@@ -37,3 +37,89 @@
 		}
 	}
 }
+
+
+.cover-image {
+	height: 400px;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+.meta-box ul {
+	background: #ffffffc2;
+	width: 300px;
+	padding: 2em;
+	list-style: none;
+}
+
+div.tag-group {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+
+	div.tag {
+		padding: 0px 10px;
+		background: white;
+		border-radius: 20px;
+		margin-right: 5px;
+	}
+}
+
+.meta-box ul.desktop-only {
+	position: relative;
+	top: 3em;
+}
+.mobile-only.meta-box {
+	width: 100%;
+	background: #baffce;
+
+	ul {
+		background: transparent;
+		margin: 0px;
+	}
+}
+
+#post-header {
+	padding: 0.2em 1em;
+}
+
+.recipe-contents {
+	padding: 0.2em 1em;
+}
+
+.recipe-body {
+	padding: 0.2em 1em;
+
+	img {
+		max-height: 300px;
+	}
+}
+
+
+section.posts {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+
+	article.post-item {
+		display: flex;
+		max-width: 400px;
+		padding: 1em;
+		flex-direction: row;
+		justify-content: space-between;
+
+		div.post-info {
+			padding: 0.2em;
+		}
+
+		div.image {
+			flex-shrink: 0;
+			width: 150px !important;
+			background-size: cover;
+			background-position: center center;
+		}
+	}
+
+}

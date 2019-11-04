@@ -1,22 +1,25 @@
 ---
 title: Home
 ---
-<section class="posts">
+<section class="posts container2">
     {% for post in paginator.posts %}
-        <article class="post">
-            {% include post-heading.html post=post %}
-            <a href="{{ site.baseurl }}{{ post.url }}">
-            <div class="image">
-                {% if post.image contains 'http' %}
-                <img src="{{ post.image }}" alt="{{ post.title }}">
-                {% else %}
-                <img src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}">
-                {% endif %}
-            </div>
-            </a>
-            {{ post.excerpt }}
+        <article class="post-item">
+			<div class="post-info">
+				<h1>
+					<a href="{{ site.baseurl }}{{ post.url }}">
+						{{ post.title }}
+					</a>
+				</h1>
+				<time datetime="{{ post.date | date_to_xmlschema }}">
+					{{ post.date | date: "%B %-d, %Y" }}
+				</time>
+				{{ post.excerpt |truncatewords: 20}}
+			</div>
 
-            <p><a class="button" href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
+
+            <div class="image" style="background-image: url({% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %});">
+            </div>
+
         </article>
     {% endfor %}
 

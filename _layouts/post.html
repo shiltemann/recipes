@@ -3,31 +3,76 @@ layout: default
 ---
 <article class="post">
     {% include post-heading.html post=page post_page=true %}
-    <div class="image">
-        {% if page.image contains 'http' %}
-        <img src="{{ page.image }}" alt="{{ page.title }}">
-        {% else %}
-        <img src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
-        {% endif %}
+
+<style type="text/css">
+.cover-image {
+	background-image: url({% if page.image contains 'http' %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %});
+}
+</style>
+
+
+    <div class="cover-image meta-box">
+		<div class="container2">
+			<ul class="desktop-only">
+				<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
+				<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
+				<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
+
+				{% if page.recipe.person %}
+					<li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.recipe.person }}</span></li>
+				{% else if page.person %}
+					<li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.person }}</span></li>
+				{% endif %}
+
+				{% if page.categories %}
+				<li title="Tags">
+					<div class="tag-group">
+						{% for tag in page.categories %}
+						<div class="tag">
+							{{ tag }}
+						</div>
+						{% endfor %}
+					</div>
+				</li>
+				{% else %}
+				{% endif %}
+
+			</ul>
+		</div>
     </div>
+	<div class="mobile-only meta-box">
+		<ul>
+			<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
+			<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
+			<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
+
+			{% if page.recipe.person %}
+				<li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.recipe.person }}</span></li>
+			{% else if page.person %}
+				<li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.person }}</span></li>
+			{% endif %}
+
+			{% if page.categories %}
+			<li title="Tags">
+				<div class="tag-group">
+					{% for tag in page.categories %}
+					<div class="tag">
+						{{ tag }}
+					</div>
+					{% endfor %}
+				</div>
+			</li>
+			{% else %}
+			{% endif %}
+		</ul>
+	</div>
 
 
 
-    <ul id="recipe" class="recipe-overview">
-        <li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
-        <li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
-        <li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
-
-        {% if page.recipe.person %}
-            <li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.recipe.person }}</span></li>
-        {% else if page.person %}
-            <li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.person }}</span></li>
-        {% endif %}
-    </ul>
     {% if page.recipe.url %}
     <p>This meal was inspired by <a href="{{ page.recipe.url }}">this</a> recipe.</p>
     {% endif %}
-    <div class="recipe-contents">
+    <div class="recipe-contents container2">
         <div class="ingredients">
             <h2>Ingredients</h2>
             {{ page.recipe.ingredients | markdownify }}
@@ -39,7 +84,7 @@ layout: default
         </div>
     </div>
 
-     <div class="recipe-body">
+     <div class="recipe-body container2">
         {{ content }}
     </div>
 
@@ -67,17 +112,3 @@ layout: default
 
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/js/jquery.imgPin.min.js"></script>
-<script>
-    $(function() {
-        $('.post img').imgPin();
-
-        $('a[href*=\\#]').on('click', function(event){
-            var el = $(this.hash);
-            if (el.length > 0) {
-                event.preventDefault();
-                $('html,body').animate({scrollTop:$(this.hash).offset().top - 50}, 500);
-            }
-        });
-    });
-</script>

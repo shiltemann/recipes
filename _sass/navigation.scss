@@ -1,6 +1,12 @@
 nav {
 	position: fixed;
 	width: 100%;
+
+	div.container2 {
+	display: flex;
+	justify-content: center;
+
+	}
 	display: flex;
 	justify-content: center;
 	background: rgba(255, 255, 255, .9);
@@ -22,5 +28,10 @@ nav {
 		&:hover {
 			color: #000;
 		}
+	}
+
+	a.logo {
+		padding: 0px;
+		line-height: 0px;
 	}
 }

@@ -1,17 +1,39 @@
-.container {
-	max-width: 1100px;
+.container2 {
+	max-width: 940px;
 	margin: 0 auto;
 }
 
 .main-content {
 	@media #{$desktop} {
 		display: flex;
+		flex-direction: column;
 	}
-	padding: 0 30px 50px 30px;
+	//padding: 0 30px 50px 30px;
 }
 
 .content {
 	@media #{$desktop} {
 		flex: 1;
+	}
+}
+
+//medium+ screen sizes
+@media #{$desktop} {
+	.desktop-only {
+		display:block !important;
+	}
+	.mobile-only {
+		display: none !important;
+	}
+}
+
+//small screen sizes
+@media #{$mobile} {
+	.mobile-only {
+		display:block !important;
+	}
+
+	.desktop-only {
+		display:none !important;
 	}
 }

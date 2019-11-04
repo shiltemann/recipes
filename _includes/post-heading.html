@@ -1,3 +1,4 @@
+<div id="post-header" class="container2">
 {% if include.post_page %}
     <div class="take-me">
         <a class="button" href="#recipe">Jump to recipe</a>
@@ -11,3 +12,4 @@
 <time datetime="{{ include.post.date | date_to_xmlschema }}">
     {{ include.post.date | date: "%B %-d, %Y" }}
 </time>
+</div>
