@@ -32,7 +32,8 @@ recipe:
     3. Cut the spinach into smaller strips and place in bowl.
     4. Finely chop the koriander and mix with the corn and black beans in a strainer. Rinse them and mix them together. Place in bowl
     5. Chop tomatoes and distribute evenly into bowls.
-    6. Dressing: Mix Griekse yoghurt, lime, apple cider vinegar, cilantro and blend thoroughly. Add salt to taste.
+    6. Cook the eggs over easy and place atop each bowl
+    7. Dressing: Mix Griekse yoghurt, lime, apple cider vinegar, cilantro and blend thoroughly. Add salt to taste.
 
 
 ---
