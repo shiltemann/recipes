@@ -61,9 +61,11 @@ div.tag-group {
 
 	div.tag {
 		padding: 0px 10px;
+		color: black;
 		background: white;
 		border-radius: 20px;
 		margin-right: 5px;
+		margin-bottom: 5px;
 	}
 }
 
@@ -73,7 +75,8 @@ div.tag-group {
 }
 .mobile-only.meta-box {
 	width: 100%;
-	background: #baffce;
+	background: #ff4e4e;
+	color: white;
 
 	ul {
 		background: transparent;
@@ -122,4 +125,10 @@ section.posts {
 		}
 	}
 
+}
+
+.pagination .page_no {
+	background-color: #ff4e4e;
+	padding: 0.4em;
+	color: white;
 }

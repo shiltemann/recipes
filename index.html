@@ -22,6 +22,7 @@ title: Home
 
         </article>
     {% endfor %}
+</section>
 
     {% if paginator.total_pages > 1 %}
         <div class="pagination">
@@ -29,11 +30,10 @@ title: Home
                 <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&larr; Newer posts</a>
             {% endif %}
 
-            <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+			<span><span class="page_no">{{ paginator.page }}</span> of <span class="page_no">{{ paginator.total_pages }}</span></span>
 
             {% if paginator.next_page %}
                 <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Older posts &rarr;</a>
             {% endif %}
         </div>
     {% endif %}
-</section>

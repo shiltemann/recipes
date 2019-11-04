@@ -34,7 +34,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      push_sidebar_down: true
       print_stylesheet: true
       comments: true
       _options:
@@ -54,7 +53,6 @@ defaults:
       path: "index.html"
     values:
       layout: "default"
-      push_sidebar_down: true
 
 gems:
   - jekyll-sitemap
