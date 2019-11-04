@@ -305,13 +305,11 @@ nav {
     line-height: 0px; }
 
 .sidebar {
-  width: 250px;
-  padding: 70px 0 0 0;
+  width: 100%;
   margin: 0 auto; }
   @media (min-width: 900px) {
     .sidebar {
-      margin: 0;
-      padding: 0 0 0 70px; } }
+      margin: 0; } }
   .sidebar .author {
     text-align: center; }
     .sidebar .author p {
@@ -390,9 +388,11 @@ div.tag-group {
   flex-wrap: wrap; }
   div.tag-group div.tag {
     padding: 0px 10px;
+    color: black;
     background: white;
     border-radius: 20px;
-    margin-right: 5px; }
+    margin-right: 5px;
+    margin-bottom: 5px; }
 
 .meta-box ul.desktop-only {
   position: relative;
@@ -400,7 +400,8 @@ div.tag-group {
 
 .mobile-only.meta-box {
   width: 100%;
-  background: #baffce; }
+  background: #ff4e4e;
+  color: white; }
   .mobile-only.meta-box ul {
     background: transparent;
     margin: 0px; }
@@ -433,6 +434,11 @@ section.posts {
       width: 150px !important;
       background-size: cover;
       background-position: center center; }
+
+.pagination .page_no {
+  background-color: #ff4e4e;
+  padding: 0.4em;
+  color: white; }
 
 .editor-link {
   display: none;
