@@ -21,7 +21,6 @@ recipe:
     * 400g black beans
     * 100g tomatoes
     * 2 cups spinach
-
     * 1 lime
     * 15 g cilantro
     * 1 tbsp apple cider vinegar
