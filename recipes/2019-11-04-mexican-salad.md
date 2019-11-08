@@ -1,5 +1,5 @@
 ---
-date: 2019-03-31
+date: 2019-11-04
 title: Mexican Bowl
 person: Helkia
 categories:
@@ -7,7 +7,7 @@ categories:
   - Salad
 image: recipes/images/mexican-bowl.png
 recipe:
-  servings: 4
+  servings: 4 people
   prep: 15 minutes
   cook: 10 minutes
   ingredients: |-
