@@ -4,7 +4,7 @@ title: Baba Ganoush
 person: Helkia
 categories:
   - Vegetarian
-image: recipes/images/baba-ganoush.png
+image: https://foodscene.deliveroo.co.uk/assets/images/blogs/foodscene.deliveroo.co.uk/en/recipes/1GJ2mPqEagkio7UhRAV-vxuWmcmhsaqFdtKzapEeGZmM/h_20_smokedaubergine.jpg?v=1.01
 recipe:
   servings: 2 people
   prep: 15 minutes
