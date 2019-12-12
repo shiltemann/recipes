@@ -16,7 +16,9 @@ layout: default
 			<ul class="desktop-only">
 				<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
 				<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
+				{% if page.recipe.cook %}
 				<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
+				{% endif %}
 
 				{% if page.recipe.person %}
 					<li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.recipe.person }}</span></li>
