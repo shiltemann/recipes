@@ -3,9 +3,8 @@ date: 2019-11-04
 title: Burritobowl met kidneybonen, vegagehakt & munt-bloemkoolrijst
 person: Albert Heijn
 categories:
-- salad
-- vegetarian
-- to-try
+- Salad
+- Vegetarian
 image: https://static.ah.nl/static/recepten/img_RAM_PRD124863_890x594_JPG.jpg
 recipe:
   servings: 2 people
