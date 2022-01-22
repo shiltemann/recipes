@@ -4,10 +4,10 @@ title: Home
 <section class="posts container2">
     {% for post in paginator.posts %}
         <article class="post-item">
-             <div class="image" style="object-fit: cover; width: 25%; height: 10vw; background-image: url({% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image | default: 'images/placeholder.jpeg' }}{% endif %});">
+             <div class="image" style="object-fit: cover; width: 25%; height: 10rem; background-image: url({% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image | default: 'images/placeholder.jpeg' }}{% endif %});">
             </div>
 
-			<div class="post-info" style="object-fit: cover; width: 75vw; height: 10vw;">
+			<div class="post-info" style="object-fit: cover; width: 75vw; height: 10rem;">
 				<h1>
 					<a href="{{ site.baseurl }}{{ post.url }}">
 						{{ post.title }}
