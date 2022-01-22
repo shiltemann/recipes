@@ -4,7 +4,7 @@ categories:
   - Pasta
   - Vegetarian
   - Spooky Season
-image: recipes/images/pompoen-risotto.png
+image: recipes/images/pompoen-risotto.jpg
 person: Helena
 recipe:
   servings: 5
