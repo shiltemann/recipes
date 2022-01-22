@@ -7,7 +7,7 @@ title: Home
              <div class="image" style="object-fit: cover; width: 25%; height: 10vw; background-image: url({% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image | default: 'images/placeholder.jpeg' }}{% endif %});">
             </div>
 
-			<div class="post-info">
+			<div class="post-info" style="object-fit: cover; width: 75vw; height: 10vw;">
 				<h1>
 					<a href="{{ site.baseurl }}{{ post.url }}">
 						{{ post.title }}
