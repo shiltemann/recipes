@@ -4,8 +4,9 @@ title: Home
 <section class="posts container2">
     {% for post in paginator.posts %}
         <article class="post-item">
-             <div class="image" style="object-fit: cover; width: 25%; height: 10rem; margin-right: 1em; background-image: url({% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image | default: 'images/placeholder.jpeg' }}{% endif %});">
-            </div>
+             	<a href="{{ site.baseurl }}{{ post.url }}">
+<div class="image" style="object-fit: cover; width: 25%; height: 10rem; margin-right: 1em; background-image: url({% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image | default: 'images/placeholder.jpeg' }}{% endif %});">
+            </div></a>
 
 			<div class="post-info" style="object-fit: cover; width: 75vw; height: 10rem;">
 				<h1>
