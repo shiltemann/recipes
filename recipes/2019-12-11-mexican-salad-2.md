@@ -1,6 +1,6 @@
 ---
 date: 2019-11-04
-title: Burritobowl met kidneybonen, vegagehakt & munt-bloemkoolrijst
+title: Mexican Salad 2
 person: Albert Heijn
 categories:
 - Salad

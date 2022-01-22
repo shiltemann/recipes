@@ -9,7 +9,7 @@ recipe:
   cook: 20 minutes
   ingredients: |-
     - voorgekookte aardappels (600g)
-    - voorgekookte bieten (600g)
+    - voorgekookte bieten (600g or 4-6 stuks)
     - indische balletjes (vega)
     - rode ui
     - kastanjechampignons
@@ -24,6 +24,7 @@ recipe:
     3. Stamp de bieten koud door de aardappels
     4. Voeg wat melk en eventueel boter toe aan de stamp
     5. Serveer met jus en feta kruimels
+    6. Optional garnish: dunne plakjes biet uit de oven
 
     **Jus met balletjes**
     1. Smelt (veel) boter in de pan
@@ -35,3 +36,15 @@ recipe:
 ---
 
 Beste stamp!
+
+Gekookte bietjes door aardappels, mooi roze!
+
+![]({{site.baseurl}}/recipes/images/bietenstamp-pre.jpg)
+
+Jus met balletjes erbij!
+
+![]({{site.baseurl}}/recipes/images/bietenstamp-jus.jpg)
+
+Feta eroverheen, yum!
+
+![]({{site.baseurl}}/recipes/images/bietenstamp.jpg)
