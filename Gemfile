@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '3.4.3'
+gem 'jekyll'
+gem "kramdown", ">= 2.3.0"
+
+
 
 group :jekyll_plugins do
 	gem 'jekyll-paginate', '1.1.0'
