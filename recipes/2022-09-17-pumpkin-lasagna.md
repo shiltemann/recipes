@@ -6,7 +6,7 @@ categories:
 image: recipes/images/pumpkin-lasagna.jpg
 recipe:
   person: Saskia
-  servings: 4 people
+  servings: 2 people
   prep: 30 minutes
   cook: 40 minutes
   ingredients: |-
