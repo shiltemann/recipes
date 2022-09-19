@@ -51,7 +51,7 @@ recipe:
     6. Repeat steps 2-4 to create another layer
     7. Add another layer of lasagna sheet
     8. Mix the remaining 1/3rd of the mushroom sauce with the creme fraiche and spread over the lasagna sheets
-    9. sprinkle with the remaining cheese (parmesan/pecorino and mozzarella)
+    9. Sprinkle with the remaining cheese (parmesan/pecorino and mozzarella)
     10. Bake until golden brown and bubbling (~40min)
     11. Garnish with some parsley and enjoy!
 
