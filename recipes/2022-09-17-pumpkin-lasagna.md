@@ -59,4 +59,4 @@ recipe:
 
 Load the sauce up with veggies for extra yumminess and vitamins!
 
-![](recipes/images/pumpkin-lasagna.jpg)
+![picture of the lasagna](recipes/images/pumpkin-lasagna.jpg)
