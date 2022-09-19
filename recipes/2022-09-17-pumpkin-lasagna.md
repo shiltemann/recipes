@@ -8,7 +8,7 @@ recipe:
   person: Saskia
   servings: 2 people
   prep: 30 minutes
-  cook: 40 minutes
+  cook: 40 minutes, 180C
   ingredients: |-
     * 2 tbsp extra virgin olive oil
     * 50g butter
