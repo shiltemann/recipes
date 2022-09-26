@@ -6,7 +6,7 @@ categories:
 image: recipes/images/pumpkin-lasagna.jpg
 recipe:
   person: Saskia
-  servings: 2 people
+  servings: 2 (hungry) people
   prep: 30 minutes
   cook: 40 minutes, 180C
   ingredients: |-
