@@ -16,6 +16,7 @@ recipe:
     * 400g kastanje champignons
     * 1/4 pumpkin, grated
     * 200g spinach, chopped
+    * 1/2 of a courgette, finely chopped
     * 3 teentjes knoflook, crushed
     * 1/2 cup flour
     * 4 cups milk
@@ -35,7 +36,7 @@ recipe:
     **Mushroom sauce**
     1. Heat oil in large deep pot
     2. Cook onions on medium heat until starting to brown (~8min)
-    3. Add butter, mushrooms, garlic and cook on medium heat until liquid has evaporate (~10min)
+    3. Add butter, mushrooms, garlic, courgette and cook on medium heat until liquid has evaporate (~10min)
     4. Stir in flour, add bay leaf, milk, salt, pepper, nutmeg, stir until thickended
     5. Remove and discard bay leaf
     6. Stir in lemon zest and parsley (save a handful of parsley for garnish)
