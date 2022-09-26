@@ -26,6 +26,7 @@ recipe:
     * 1/2 tsp salt
     * 1/4 tsp white pepper
     * 1/4 tsp nutmeg
+    * chili flakes (optional, to taste)
     * zest of 1 lemon
     * 1/2 cup grated parmesan or pecorino
     * 1/2 cup grated mozzarella
@@ -39,7 +40,7 @@ recipe:
     3. Add butter, mushrooms, garlic, courgette and cook on medium heat until liquid has evaporate (~10min)
     4. Stir in flour, add bay leaf, milk, salt, pepper, nutmeg, stir until thickended
     5. Remove and discard bay leaf
-    6. Stir in lemon zest and parsley (save a handful of parsley for garnish)
+    6. Stir in lemon zest and parsley (save a handful of parsley for garnish), chili flakes to taste
     7. Stir in the chopped spinach
     8. Stir in 1/4th of the parmesan/pecorino cheese
 
@@ -48,7 +49,7 @@ recipe:
     2. Spread a layer of mushroom sauce over the bottom of the dish
     3. Place a layer of lasagna sheets
     4. Add a layer of 1/3rd of the remaining sauce
-    5. Add layer of half the grated pumpkin, sprinkle in half the thyme
+    5. Add layer of half the grated pumpkin (optional: fry up with some spices first), sprinkle in half the thyme
     6. Repeat steps 2-4 to create another layer
     7. Add another layer of lasagna sheet
     8. Mix the remaining 1/3rd of the mushroom sauce with the creme fraiche and spread over the lasagna sheets
