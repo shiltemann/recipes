@@ -2,8 +2,8 @@ source 'https://rubygems.org'
 
 gem 'jekyll'
 gem "kramdown", ">= 2.3.0"
-
-
+gem 'kramdown-parser-gfm'
+gem 'webrick'
 
 group :jekyll_plugins do
 	gem 'jekyll-paginate', '1.1.0'
