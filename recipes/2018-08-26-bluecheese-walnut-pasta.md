@@ -11,16 +11,16 @@ recipe:
   servings: 2 people
   prep: 5 minutes
   cook: 10 minutes
-  ingredients: |-
-    * 1 clove of garlic
-    * Blue cheese (e.g. Danish blue)
-    * 1 red onion
-    * walnuts
-    * cranberries (dried)
-    * 2 spring onions
-    * cream
-    * penne pasta
-    * optional: 1 tablespoon of vermouth or sherry
+  ingredients:
+    - 1 clove of garlic
+    - Blue cheese (e.g. Danish blue)
+    - 1 red onion
+    - walnuts
+    - cranberries (dried)
+    - 2 spring onions
+    - cream
+    - penne pasta
+    - optional: 1 tablespoon of vermouth or sherry
   directions: |-
     1. Cut the red onions and spring onions, and chop the garlic
     2. Fry up the garlic and red onion and the whiter half of the spring onions

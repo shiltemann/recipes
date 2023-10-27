@@ -7,7 +7,7 @@ recipe:
   servings: 2
   prep: 10 minutes
   cook: 20 minutes
-  ingredients: |-
+  ingredients:
     - voorgekookte aardappels (600g)
     - voorgekookte bieten (600g or 4-6 stuks)
     - indische balletjes (vega)

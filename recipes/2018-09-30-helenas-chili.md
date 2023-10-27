@@ -11,18 +11,18 @@ recipe:
   servings: 2 portions
   prep: 15 minutes
   cook: 60 minutes
-  ingredients: |-
-    * 500g Red Kidney Beans (drained)
-    * 500g Tomato Purée (with or without tomato chunks)
-    * 1 chili (can substitue jalapeño slices)
-    * Cajun Seasoning
-    * A small purple onion
-    * A small yellow onion
-    * A couple gloves of garlic
-    * 50g Yellow Cheddar
-    * Sour cream
-    * Optional: bell pepper, celery, corn
-    * Garnish: cilantro, avocado
+  ingredients:
+    - 500g Red Kidney Beans (drained)
+    - 500g Tomato Purée (with or without tomato chunks)
+    - 1 chili (can substitue jalapeño slices)
+    - Cajun Seasoning
+    - A small purple onion
+    - A small yellow onion
+    - A couple gloves of garlic
+    - 50g Yellow Cheddar
+    - Sour cream
+    - Optional: bell pepper, celery, corn
+    - Garnish: cilantro, avocado
   directions: |-
     **Prep**
     1. Put a pot on low heat / set up your slow cooker

@@ -10,7 +10,7 @@ recipe:
   servings: 2
   prep: 5 minutes
   cook: 45 minutes
-  ingredients: |-
+  ingredients:
     - 800g pompoen
     - 400 mL stock
     - 200 mL kokosmelk

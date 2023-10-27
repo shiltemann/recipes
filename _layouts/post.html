@@ -77,7 +77,34 @@ layout: default
     <div class="recipe-contents container2">
         <div class="ingredients">
             <h2>Ingredients</h2>
-            {{ page.recipe.ingredients | markdownify }}
+
+                    {% assign tmp = page.recipe.ingredients | map: "" | join: "," | size %}
+                    {% if tmp == 0 %}
+                        {% for k in page.recipe.ingredients %}
+                        {{ k[0] }}
+                            <ul class="ingredient-list">
+                                    {% for ingredient in k[1] %}
+                                        <li>
+                                                <label>
+                                                <input type="checkbox">
+                                                {{ ingredient }}
+                                                </label>
+                                        </li>
+                                    {% endfor %}
+                            </ul>
+                        {% endfor %}
+                    {% else %}
+                            <ul class="ingredient-list">
+                                    {% for ingredient in page.recipe.ingredients %}
+                                        <li>
+                                                <label>
+                                                <input type="checkbox">
+                                                {{ ingredient }}
+                                                </label>
+                                        </li>
+                                    {% endfor %}
+                            </ul>
+                    {% endif %}
         </div>
 
         <div class="directions">

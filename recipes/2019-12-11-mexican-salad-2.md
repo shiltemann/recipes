@@ -9,17 +9,17 @@ image: https://static.ah.nl/static/recepten/img_RAM_PRD124863_890x594_JPG.jpg
 recipe:
   servings: 2 people
   prep: 15 min
-  ingredients: |-
-    * 1 avocado
-    * 3 el arachideolie
-    * 200 g vegetarische basis rulstukjes
-    * 2 middelgrote eieren
-    * 160 g stevige kidneybonen in blik
-    * 1 tl gemalen komijn
-    * ½ limoen
-    * 7½ g verse munt
-    * 400 g bloemkoolrijst
-    * 2 el zoete chilisaus
+  ingredients:
+    - 1 avocado
+    - 3 el arachideolie
+    - 200 g vegetarische basis rulstukjes
+    - 2 middelgrote eieren
+    - 160 g stevige kidneybonen in blik
+    - 1 tl gemalen komijn
+    - ½ limoen
+    - 7½ g verse munt
+    - 400 g bloemkoolrijst
+    - 2 el zoete chilisaus
   directions: |-
     1. Halveer de avocado overlangs, verwijder de pit en lepel het vruchtvlees uit de schil. Snijd het vruchtvlees in plakjes.
     2. Verhit ⅓ van de olie in een koekenpan, bak de rulstukjes 5 min. op middelhoog vuur en neem uit de pan. Verhit nog eens ⅓ van de olie in de pan en bak de eieren.

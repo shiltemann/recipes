@@ -4,9 +4,27 @@
 @import "elements";
 @import "layout";
 @import "blog";
-@import "forms";
 @import "navigation";
 @import "sidebar";
 @import "recipes";
-@import "cloudcannon";
-@import "pinterest";
+
+.ingredient-list {
+	label {
+		cursor: pointer;
+	}
+
+	li label {
+		padding: 0.3em;
+	}
+	li label:hover {
+		background: #eee;
+	}
+	li::before {
+		content: '' !important;
+	}
+
+	li:has(input:checked) {
+		text-decoration: line-through;
+	}
+}
+

@@ -9,29 +9,29 @@ recipe:
   servings: 2 (hungry) people
   prep: 30 minutes
   cook: 40 minutes, 180C
-  ingredients: |-
-    * 2 tbsp extra virgin olive oil
-    * 50g butter
-    * 2 red onions, finely chopped
-    * 400g kastanje champignons
-    * 1/4 pumpkin, grated
-    * 200g spinach, chopped
-    * 1/2 of a courgette, finely chopped
-    * 3 teentjes knoflook, crushed
-    * 1/2 cup flour
-    * 4 cups milk
-    * 1 bay leaf
-    * 1 tbsp thyme leaves
-    * 1/2 cup chopped fresh parsley
-    * 1/2 tsp salt
-    * 1/4 tsp white pepper
-    * 1/4 tsp nutmeg
-    * chili flakes (optional, to taste)
-    * zest of 1 lemon
-    * 1/2 cup grated parmesan or pecorino
-    * 1/2 cup grated mozzarella
-    * 1/2 cup creme fraiche
-    * lasagna sheets
+  ingredients:
+    - 2 tbsp extra virgin olive oil
+    - 50g butter
+    - 2 red onions, finely chopped
+    - 400g kastanje champignons
+    - 1/4 pumpkin, grated
+    - 200g spinach, chopped
+    - 1/2 of a courgette, finely chopped
+    - 3 teentjes knoflook, crushed
+    - 1/2 cup flour
+    - 4 cups milk
+    - 1 bay leaf
+    - 1 tbsp thyme leaves
+    - 1/2 cup chopped fresh parsley
+    - 1/2 tsp salt
+    - 1/4 tsp white pepper
+    - 1/4 tsp nutmeg
+    - chili flakes (optional, to taste)
+    - zest of 1 lemon
+    - 1/2 cup grated parmesan or pecorino
+    - 1/2 cup grated mozzarella
+    - 1/2 cup creme fraiche
+    - lasagna sheets
 
   directions: |-
     **Mushroom sauce**

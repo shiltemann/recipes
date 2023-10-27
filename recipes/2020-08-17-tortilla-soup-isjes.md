@@ -11,8 +11,8 @@ recipe:
   servings: 3
   prep: 15 minutes
   cook: 30 minutes
-  ingredients: |-
-    **Soup**
+  ingredients:
+    Soup:
     - 2 tbsp vegetable oil
     - 1 large onion
     - 4 cloves garlic
@@ -23,7 +23,8 @@ recipe:
     - 4-6 tomates
     - 1L vegetable broth
     - 1 cup fresh corn
-    **Extras**
+
+    Extras:
     - sour cream
   directions: |-
     1. Add a drizzle of sour cream down the side of the isje mold

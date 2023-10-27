@@ -10,7 +10,7 @@ recipe:
   servings: 2
   prep: 10 minutes
   cook: 30 minutes
-  ingredients: |-
+  ingredients:
     - brussel sprouts (350)
     - chalots (1)
     - butter (2 Tbsp)

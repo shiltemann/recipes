@@ -13,9 +13,14 @@ recipe:
   servings: 42
   prep: 10min
   cook: 5hrs
-  ingredients: |-
-  * ingredient 1
-  * ingredient 2
+  ingredients:
+    base: 
+    - ingredient 1
+    - ingredient 2
+    extras:
+    - Some
+    - additional
+    - topings
   directions: |-
   * step 1
   * step 2

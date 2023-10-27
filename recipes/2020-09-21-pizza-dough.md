@@ -9,7 +9,7 @@ recipe:
   servings: 2 pizzas
   prep: 30 minutes
   cook: 20 minutes
-  ingredients: |-
+  ingredients:
     - 1-1/4 cups warm water (110° to 115°)
     - 2 teaspoons sugar, divided
     - 1 package (1/4 ounce) active dry yeast

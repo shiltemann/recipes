@@ -11,17 +11,17 @@ recipe:
   servings: "60-70 dumplings"
   prep: 60 minutes
   cook: 30 minutes
-  ingredients: |-
-    * Round dumpling/wonton/gyoza wrappers
-    * 1/2 medium head nappa cabbage
-    * 1 pound ground pork
-    * 1 cup scallions, thinly sliced
-    * 1 cup cilantro, minced
-    * 3 tablespoons fresh ginger, finely grated
-    * 2 tablespoons sesame oil
-    * 3 tablespoons soy sauce
-    * 1 tablespoon salt
-    * 2 eggs, whisked
+  ingredients:
+    - Round dumpling/wonton/gyoza wrappers
+    - 1/2 medium head nappa cabbage
+    - 1 pound ground pork
+    - 1 cup scallions, thinly sliced
+    - 1 cup cilantro, minced
+    - 3 tablespoons fresh ginger, finely grated
+    - 2 tablespoons sesame oil
+    - 3 tablespoons soy sauce
+    - 1 tablespoon salt
+    - 2 eggs, whisked
   directions: |-
     **Prep**
     1. Slice the half-head of cabbage down its length, through the root, to make 2 quarters. Then slice each quarter into very thin strips, cutting cross-wise. Toss the slices with the salt in a large mixing bowl and set aside for 5 to 10 minutes.

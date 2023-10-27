@@ -10,15 +10,15 @@ recipe:
   servings: 4 portions
   prep: 20 minutes
   cook: 40 minutes
-  ingredients: |-
-    * a bunch of oil
-    * 2 aubergines
-    * 1 red chili pepper
-    * 2 tablespoons dried thyme (or as much as you want)
-    * 30 grams sliced almonds (or as much as you want)
-    * 15 grams fresh mint leaves
-    * 2-3 little toes (haha get it) garlic
-    * 300 grams Greek yoghurt
+  ingredients:
+    - a bunch of oil
+    - 2 aubergines
+    - 1 red chili pepper
+    - 2 tablespoons dried thyme (or as much as you want)
+    - 30 grams sliced almonds (or as much as you want)
+    - 15 grams fresh mint leaves
+    - 2-3 little toes (haha get it) garlic
+    - 300 grams Greek yoghurt
   directions: |-
     **Prep**
     1. Preheat the oven at 200C/400F.

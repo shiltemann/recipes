@@ -9,7 +9,7 @@ recipe:
   servings: 2
   prep: 15 minutes
   cook: 30 minutes
-  ingredients: |-
+  ingredients:
     - Risotto rice
     - White chocolate bar
     - Frozen passievrucht chunks

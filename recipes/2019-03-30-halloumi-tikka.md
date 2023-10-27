@@ -10,24 +10,24 @@ recipe:
   servings: 4
   prep: 20 mins
   cook: 30 minutes
-  ingredients: |-
-    * Garlic
-    * Ginger
-    * 1 Red pepper
-    * 2 onions
-    * Halloumi
-    * Tomato puree
-    * Canned chopped tomatoes
-    * Creme fraiche
-    * 2 tsp Garam Masala (more to taste)
-    * 2 tsp Tumeric (Kurkuma)
-    * 2 tsp Coriander
-    * 2 tsp Cumin seeds
-    * 1 Cinnamon stick
-    * 4/5 Cardemom pods (to taste)
-    * Almond flakes
-    * Fresh coriander for garnish
-    * Rice and/or Nan bread
+  ingredients:
+    - Garlic
+    - Ginger
+    - 1 Red pepper
+    - 2 onions
+    - Halloumi
+    - Tomato puree
+    - Canned chopped tomatoes
+    - Creme fraiche
+    - 2 tsp Garam Masala (more to taste)
+    - 2 tsp Tumeric (Kurkuma)
+    - 2 tsp Coriander
+    - 2 tsp Cumin seeds
+    - 1 Cinnamon stick
+    - 4/5 Cardemom pods (to taste)
+    - Almond flakes
+    - Fresh coriander for garnish
+    - Rice and/or Nan bread
   directions: |-
     1. Prepare the rice and/or nan to instructions
     2. Cut the onions, halloumi, garlic, red pepper and ginger

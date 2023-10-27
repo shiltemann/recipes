@@ -9,15 +9,15 @@ recipe:
   servings: 2 people
   prep: 15 minutes
   cook: 30 minutes
-  ingredients: |-
-    * 3 Aubergines
-    * 3 garlic cloves, unpeeled
-    * 1 tsp salt
-    * 25g Tahini
-    * 25 mL olive oil
-    * 50g Labneh / Greek Yoghurt
-    * Handful mint
-    * Handful pomegranate seeds
+  ingredients:
+    - 3 Aubergines
+    - 3 garlic cloves, unpeeled
+    - 1 tsp salt
+    - 25g Tahini
+    - 25 mL olive oil
+    - 50g Labneh / Greek Yoghurt
+    - Handful mint
+    - Handful pomegranate seeds
   directions: |-
     0. Roast the aubergines over an open flame, they will turn from dark purple to dark red in places when done
     1. Poke holes in the aubergines and place in oven under high heat for 30 minutes

@@ -10,14 +10,14 @@ recipe:
   servings: 1
   prep: 15 minutes
   cook: 0 minutes
-  ingredients: |-
-    * 250-300g Spinach
-    * 1/2 red onion
-    * Goat cheese (little spheres preferrable)
-    * 5-6 medium/large strawberries (or raspberries)
-    * 3 tbsp raspberry vinegar
-    * 1 tbsp sugar
-    * 1 teaspoon mustard
+  ingredients:
+    - 250-300g Spinach
+    - 1/2 red onion
+    - Goat cheese (little spheres preferrable)
+    - 5-6 medium/large strawberries (or raspberries)
+    - 3 tbsp raspberry vinegar
+    - 1 tbsp sugar
+    - 1 teaspoon mustard
   directions: |-
     1. Wash and chop spinach
     2. Dressing: Finely chop one strawberry. Stir together chopped strawberry, vinegar, musterd, sugar

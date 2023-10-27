@@ -9,17 +9,17 @@ recipe:
   servings: 2
   prep: 15 minutes
   cook: 0 minutes
-  ingredients: |-
-    * Refried beans ([La morena w/ chipotle en adobo](https://www.ah.nl/producten/product/wi414997/la-morena-bayo-bonenspread-met-chipotle-en-adobo))
-    * 2 avocados
-    * 1 small onion, finely chopped
-    * 1 tomato, finely chopped
-    * 1 lime
-    * Garlic
-    * Sour cream
-    * Cheddar cheese, grated
-    * Spring onions
-    * Tortilla chips
+  ingredients:
+    - Refried beans ([La morena w/ chipotle en adobo](https://www.ah.nl/producten/product/wi414997/la-morena-bayo-bonenspread-met-chipotle-en-adobo))
+    - 2 avocados
+    - 1 small onion, finely chopped
+    - 1 tomato, finely chopped
+    - 1 lime
+    - Garlic
+    - Sour cream
+    - Cheddar cheese, grated
+    - Spring onions
+    - Tortilla chips
   directions: |-
     **Guac**
     1. Cut the avodados and crush in a bowl with a fork

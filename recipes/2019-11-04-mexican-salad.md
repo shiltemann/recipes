@@ -10,22 +10,22 @@ recipe:
   servings: 4 people
   prep: 15 minutes
   cook: 10 minutes
-  ingredients: |-
-    * 800 g frozen (sweet)potato cubes
-    * 2.5 avocados
-    * 7 tbsp olive oil
-    * 1 tbsp Cajun spices
-    * 15 g fresh koriander
-    * 4 medium eggs
-    * 300g corn
-    * 400g black beans
-    * 100g tomatoes
-    * 2 cups spinach
-    * 1 lime
-    * 15 g cilantro
-    * 1 tbsp apple cider vinegar
-    * 2 tbsp water
-    * 100 mL cup greek yoghurt
+  ingredients:
+    - 800 g frozen (sweet)potato cubes
+    - 2.5 avocados
+    - 7 tbsp olive oil
+    - 1 tbsp Cajun spices
+    - 15 g fresh koriander
+    - 4 medium eggs
+    - 300g corn
+    - 400g black beans
+    - 100g tomatoes
+    - 2 cups spinach
+    - 1 lime
+    - 15 g cilantro
+    - 1 tbsp apple cider vinegar
+    - 2 tbsp water
+    - 100 mL cup greek yoghurt
   directions: |-
     1. Put 4 tbsp oil in a pan and cook the potato cubes on medium, dusting them with a layer of cajun spices. Turn them regularly to prevent burning, and place in bowl when done.
     2. Slice the avocados, 1/2 of each avocado will be used per portion. Slices or chunks, whatever is preferrable, people will usually stir to mix the bowl afterwards so consider cubing the avo if it isn't ripe enough. Place in bowl

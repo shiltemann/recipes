@@ -7,15 +7,15 @@ recipe:
   servings: 4 people
   prep: 5 minutes
   cook: 15 minutes
-  ingredients: |-
-    * 1 cup flour
-    * 1 cup corn flour
-    * 1/3 cup sugar
-    * 1 teaspoon salt
-    * 3 1/3 teaspoons baking powder
-    * 1 cup milk
-    * 1/3 cup vegetable oil
-    * 1 egg
+  ingredients:
+    - 1 cup flour
+    - 1 cup corn flour
+    - 1/3 cup sugar
+    - 1 teaspoon salt
+    - 3 1/3 teaspoons baking powder
+    - 1 cup milk
+    - 1/3 cup vegetable oil
+    - 1 egg
 
   directions: |-
     1. Preheat the oven to 200C

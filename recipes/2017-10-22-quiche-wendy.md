@@ -9,12 +9,12 @@ recipe:
   servings: 4
   prep: 15 minutes
   cook: 25 minutes
-  ingredients: |-
-    * 1 rond quiche deeg kant en klaar
-    * 250 mL creme fraiche
-    * 100 gr gruyere, geraspt
-    * 125 gr spekblokjes (of hamblokjes)
-    * 4 eggs
+  ingredients:
+    - 1 rond quiche deeg kant en klaar
+    - 250 mL creme fraiche
+    - 100 gr gruyere, geraspt
+    - 125 gr spekblokjes (of hamblokjes)
+    - 4 eggs
   directions: |-
     1. Bedek vorm met quichedeeg
     2. Strooi de spekblokjes erop + kaas

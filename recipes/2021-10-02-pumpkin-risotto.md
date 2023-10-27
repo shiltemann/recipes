@@ -10,7 +10,7 @@ recipe:
   servings: 5
   prep: 5 minutes
   cook: 60 minutes
-  ingredients: |-
+  ingredients:
     - boter
     - uien
     - pompoen

@@ -10,22 +10,22 @@ recipe:
   servings: 4
   prep: 30 minutes
   cook: 0 minutes
-  ingredients: |-
-    * 1 cup rice (red, wild, nutty or a mix)
-    * 1/2 tsp salt
-    * black pepper
-    * 1/2 tsp orange zest
-    * juice from 1 orange
-    * 3 tbsp apple cider vinegar
-    * 2 tbsp honey
-    * 1 tbsp mustard
-    * 1 cup chopped pecans
-    * 1/2 cup dried cranberries
-    * 1/4 cup seeds (e.g. pumpkin)
-    * 1/2 cup fresh parsley
-    * 2 diced celery stalks
-    * 1 diced apple
-    * 2 chopped spring onions
+  ingredients:
+    - 1 cup rice (red, wild, nutty or a mix)
+    - 1/2 tsp salt
+    - black pepper
+    - 1/2 tsp orange zest
+    - juice from 1 orange
+    - 3 tbsp apple cider vinegar
+    - 2 tbsp honey
+    - 1 tbsp mustard
+    - 1 cup chopped pecans
+    - 1/2 cup dried cranberries
+    - 1/4 cup seeds (e.g. pumpkin)
+    - 1/2 cup fresh parsley
+    - 2 diced celery stalks
+    - 1 diced apple
+    - 2 chopped spring onions
   directions: |-
     1. Cook the rice and let cool off
     2. Chop the apple, celery, spring onions, and parsley

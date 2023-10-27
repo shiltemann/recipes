@@ -10,17 +10,17 @@ recipe:
   servings: 2 portions
   prep: 15 minutes
   cook: 60 minutes
-  ingredients: |-
-    * 1 cup flour
-    * 1 tsp salt
-    * 6 tbsp butter
-    * Cream (/whipping) 1/2 a quart.
-    * 1 thing broccoli
-    * 2 onions
-    * quite large handfull spinach
-    * 4 eggs
-    * shredded mozz / gouda
-    * blue cheese
+  ingredients:
+    - 1 cup flour
+    - 1 tsp salt
+    - 6 tbsp butter
+    - Cream (/whipping) 1/2 a quart.
+    - 1 thing broccoli
+    - 2 onions
+    - quite large handfull spinach
+    - 4 eggs
+    - shredded mozz / gouda
+    - blue cheese
   directions: |-
     **Crust**
     1. Mix flour and salt

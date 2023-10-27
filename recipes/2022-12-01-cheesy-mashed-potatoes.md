@@ -9,7 +9,7 @@ recipe:
   servings: 4 people
   prep: 30 minutes
   cook: 10 minute
-  ingredients: |-
+  ingredients:
     - 800g kartofflen
     - ~160g cheddar kaas
     - 3 el boter

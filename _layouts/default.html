@@ -14,19 +14,21 @@
     {% seo %}
     {% feed_meta %}
 </head>
-    <body>
-        {% include navigation.html %}
-        <header>
-        </header>
-        <div class="container main-content">
-            <section class="content">{{ content }}</section>
-            {% include sidebar.html %}
-        </div>
-        <footer>
-            <div class="container">
-                <hr>
-                &copy; {{ site.title }} {{ site.time | date: "%Y" }}. All rights reserved.
-            </div>
-        </footer>
-    </body>
+	<body>
+		<header>
+		{% include navigation.html %}
+		</header>
+		<main>
+			<div class="container main-content">
+				<section class="content">{{ content }}</section>
+			</div>
+		</main>
+		{% include sidebar.html %}
+		<footer>
+			<div class="container">
+			<hr>
+			&copy; {{ site.title }} {{ site.time | date: "%Y" }}. All rights reserved.
+			</div>
+		</footer>
+	</body>
 </html>
