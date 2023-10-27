@@ -40,6 +40,10 @@ body {
     }
 }
 
+.desktop-only {
+	display: none;
+}
+
 .recipe-contents {
     display: flex;
 
