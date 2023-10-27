@@ -1,22 +1,18 @@
 ---
 # Site
 
-title: Recipes
+title: Galaxians Recipes
+tagline: home of some out of this world recipes
 url: "https://shiltemann.github.io"
 baseurl: /recipes
-google_analytics_key:
-newsletter_action: "//your-mailchimp-action-url.com"
-disqus_shortname:
 
-# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+# SEO
 logo: /siteicon.png
-description: Family Recipes.
-author:
-  name:
-  email:
-  twitter:  # twitter username without the @ symbol
+
+description: The best place in the universe to find some lovely recipes written by the galactic girlfriends.
+
 social:
-  name: Family Recipes
+  name: Galaxians Recipes
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
@@ -26,33 +22,6 @@ social:
 paginate: 10
 paginate_path: "/:num/"
 permalink: pretty
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      print_stylesheet: true
-      comments: true
-      _options:
-        content:
-          width: 1560
-          height: 2000
-        featured_image:
-          width: 1560
-          height: 2000
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "index.html"
-    values:
-      layout: "default"
 
 gems:
   - jekyll-sitemap
@@ -65,22 +34,7 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
-
-# -----------
-# CloudCannon
+  - .direnv
 
 social_icons:
-  #- Facebook
-  #- Google Plus
-  #- Instagram
-  #- LinkedIn
-  #- Pinterest
-  #- Tumblr
-  #- Twitter
-  #- YouTube
   - RSS
-
-_options:
-  author_image:
-    width: 400
-    height: 400
