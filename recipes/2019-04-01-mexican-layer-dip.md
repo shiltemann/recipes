@@ -10,7 +10,7 @@ recipe:
   prep: 15 minutes
   cook: 0 minutes
   ingredients:
-    - Refried beans ([La morena w/ chipotle en adobo](https://www.ah.nl/producten/product/wi414997/la-morena-bayo-bonenspread-met-chipotle-en-adobo))
+    - Refried beans (La morena w/ chipotle en adobo)
     - 2 avocados
     - 1 small onion, finely chopped
     - 1 tomato, finely chopped
