@@ -1,19 +1,24 @@
 ---
 layout: default
 ---
-<article class="post">
-    {% include post-heading.html post=page post_page=true %}
+<section class="recipe">
 
-<style type="text/css">
-.cover-image {
-	background-image: url({% if page.image contains 'http' %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %});
-}
-</style>
-
-
-    <div class="cover-image meta-box">
-		<div class="container2">
-			<ul class="desktop-only">
+<article>
+	<header>
+		<div class="title">
+			<h1>
+			{{ page.title }}
+			</h1>
+			<time datetime="{{ page.date | date_to_xmlschema }}">
+			    {{ page.date | date: "%B %-d, %Y" }}
+			</time>
+		</div>
+	<div class="row meta-box">
+		<div class="col-md-10">
+		<img class="cover-image" src="{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}">
+		</div>
+		<div class="col-md-2">
+			<ul>
 				<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
 				<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
 				{% if page.recipe.cook %}
@@ -21,67 +26,42 @@ layout: default
 				{% endif %}
 
 				{% if page.recipe.person %}
-					<li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.recipe.person }}</span></li>
+					<li class="tag" title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.recipe.person }}</span></li>
 				{% else if page.person %}
-					<li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.person }}</span></li>
+					<li  class="tag" title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.person }}</span></li>
 				{% endif %}
 
 				{% if page.categories %}
 				<li title="Tags">
-					<div class="tag-group">
+					<ul>
 						{% for tag in page.categories %}
-						<div class="tag">
+						<li class="tag">
 							{{ tag }}
-						</div>
+						</li>
 						{% endfor %}
-					</div>
+					</ul>
 				</li>
 				{% else %}
 				{% endif %}
 
 			</ul>
 		</div>
-    </div>
-	<div class="mobile-only meta-box">
-		<ul>
-			<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
-			<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
-			<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
-
-			{% if page.recipe.person %}
-				<li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.recipe.person }}</span></li>
-			{% else if page.person %}
-				<li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.person }}</span></li>
-			{% endif %}
-
-			{% if page.categories %}
-			<li title="Tags">
-				<div class="tag-group">
-					{% for tag in page.categories %}
-					<div class="tag">
-						{{ tag }}
-					</div>
-					{% endfor %}
-				</div>
-			</li>
-			{% else %}
-			{% endif %}
-		</ul>
 	</div>
-
+	</header>
 
 
     {% if page.recipe.url %}
     <p>This meal was inspired by <a href="{{ page.recipe.url }}">this</a> recipe.</p>
     {% endif %}
-    <div class="recipe-contents container2">
         <div class="ingredients">
             <h2>Ingredients</h2>
 
                     {% assign tmp = page.recipe.ingredients | map: "" | join: "," | size %}
                     {% if tmp == 0 %}
                         {% for k in page.recipe.ingredients %}
+			<p>
                         {{ k[0] }}
+			</p>
                             <ul class="ingredient-list">
                                     {% for ingredient in k[1] %}
                                         <li>
@@ -111,14 +91,13 @@ layout: default
             <h2>Directions</h2>
             {{ page.recipe.directions | markdownify }}
         </div>
-    </div>
 
-     <div class="recipe-body container2">
+     <div class="recipe-body">
         {{ content }}
     </div>
 
 </article>
-
+</section>
 
 <script type="application/ld+json">
     {

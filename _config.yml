@@ -19,7 +19,7 @@ social:
 # -----
 # Build
 
-paginate: 10
+paginate: 12
 paginate_path: "/:num/"
 permalink: pretty
 

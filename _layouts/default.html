@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/font-awesome-4.7.0/css/font-awesome.min.css">
     <link href="//fonts.googleapis.com/css?family=Antic+Slab|Fira+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+
     <link rel="stylesheet" media="screen" href="{{ site.baseurl }}/css/screen.css">
     {% if page.print_stylesheet %}
         <link rel="stylesheet" media="print" href="{{ site.baseurl }}/css/print.css">
@@ -15,19 +17,39 @@
     {% feed_meta %}
 </head>
 	<body>
-		<header>
-		{% include navigation.html %}
+		<header class="container">
+			<nav>
+				<ul>
+					<a href="{{ site.baseurl }}/">
+					<img src="{{ site.baseurl }}/images/galaxians-recipes-dark.png" class="logo">
+					</a>
+				</ul>
+				<ul>
+					{% for link in site.data.navigation %}
+					{% assign class = "" %}
+
+					{% if link.link == page.url %}
+					{% assign class = class | append: " active" %}
+					{% endif %}
+					<li><a role="button" href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a></li>
+					{% endfor %}
+				</ul>
+			</nav>
 		</header>
-		<main>
-			<div class="container main-content">
-				<section class="content">{{ content }}</section>
-			</div>
+		<main class="container">
+			{{ content }}
 		</main>
-		{% include sidebar.html %}
-		<footer>
-			<div class="container">
-			<hr>
-			&copy; {{ site.title }} {{ site.time | date: "%Y" }}. All rights reserved.
+		<footer class="container">
+			<div class="grid">
+				<div class="right">
+					<a href="{{ site.baseurl }}/about/">
+					<img src="{{ site.baseurl }}{{ site.data.sidebar.author_image }}" alt="author" class="logo">
+					</a>
+				</div>
+				<div>
+					<p>{{ site.data.sidebar.description_markdown | markdownify }}</p>
+					<a target="_blank" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}</a>
+				</div>
 			</div>
 		</footer>
 	</body>

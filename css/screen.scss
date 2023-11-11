@@ -1,13 +1,61 @@
 ---
 ---
-@import "variables";
-@import "elements";
-@import "layout";
-@import "blog";
-@import "navigation";
-@import "sidebar";
-@import "recipes";
 
+@import "flexboxgrid.min.css";
+
+/* Yellow Light scheme (Default) */
+/* Can be forced with data-theme="light" */
+[data-theme="light"],
+:root:not([data-theme="dark"]) {
+  --primary: #fdd835;
+  --primary-hover: #fbc02d;
+  --primary-focus: rgba(253, 216, 53, 0.125);
+  --primary-inverse: rgba(0, 0, 0, 0.75);
+}
+
+/* Yellow Dark scheme (Auto) */
+/* Automatically enabled if user has Dark mode enabled */
+@media only screen and (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --primary: #fdd835;
+    --primary-hover: #ffeb3b;
+    --primary-focus: rgba(253, 216, 53, 0.25);
+    --primary-inverse: rgba(0, 0, 0, 0.75);
+  }
+}
+
+/* Yellow Dark scheme (Forced) */
+/* Enabled if forced with data-theme="dark" */
+[data-theme="dark"] {
+  --primary: #fdd835;
+  --primary-hover: #ffeb3b;
+  --primary-focus: rgba(253, 216, 53, 0.25);
+  --primary-inverse: rgba(0, 0, 0, 0.75);
+}
+
+/* Yellow (Common styles) */
+:root {
+  --form-element-active-border-color: var(--primary);
+  --form-element-focus-color: var(--primary-focus);
+  --switch-color: var(--primary-inverse);
+  --switch-checked-background-color: var(--primary);
+}
+
+
+
+// Simplified example
+body {
+	  --border-radius: 25px;
+}
+
+img.logo {
+	width: 12em;
+	border-radius: var(--border-radius);
+}
+
+.right {
+	text-align: right;
+}
 .ingredient-list {
 	label {
 		cursor: pointer;
@@ -18,13 +66,148 @@
 	}
 	li label:hover {
 		background: #eee;
+		
 	}
-	li::before {
-		content: '' !important;
+	li {
+		list-style: none;
+
+		input {
+			border-radius: 0;
+		}
+
+		&:has(input:checked) {
+			text-decoration: line-through;
+		}
 	}
 
-	li:has(input:checked) {
-		text-decoration: line-through;
-	}
 }
 
+
+article.card {
+	margin: 1em 0;
+	padding: 0;
+	border-radius: var(--border-radius);
+	height: 100%;
+
+	* {
+		--typography-spacing-vertical: 0.5rem;
+	}
+
+	h2, p {
+		line-height: 1.1;
+		padding-left: var(--typography-spacing-vertical);
+		padding-right: var(--typography-spacing-vertical);
+	}
+
+	img {
+		height: 10em;
+		width: 100%;
+		object-fit: cover;
+		border-radius:  var(--border-radius) var(--border-radius) 0 0;
+	}
+	p { 
+		color: var(--h2-color);
+	}
+
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+
+	time {
+		text-align: center;
+	}
+
+	&:hover {
+		outline: 3px solid #ccc;
+	}
+}
+div.article-container {
+	padding: 0.4em;
+}
+
+header, main {
+	--block-spacing-vertical: 1rem !important;
+}
+
+section.recipe {
+	--block-spacing-vertical: 1rem !important;
+
+	article {
+		padding-left: 1rem;
+		padding-right: 1rem;
+
+		* {
+			--typography-spacing-vertical: 0.5rem;
+		}
+		header {
+			display: flex;
+			flex-direction: column;
+			justify-content: space-between;
+			background: var(--primary);
+			color: var(--primary-inverse);
+			margin-left: -1rem;
+			margin-right: -1rem;
+			margin-bottom: 0;
+			padding: 0;
+
+			.title {
+				padding-left: 1rem;
+				padding-top: 1rem;
+				padding-right: 1rem;
+				width: 100%;
+				display: flex;
+				flex-direction: row;
+				justify-content: space-between;
+				align-items: flex-start;
+				border-bottom: 1px solid black;
+			}
+		}
+		.row.meta-box {
+			margin: 0;
+			.col-md-10 {
+				width: 100%;
+				padding: 0;
+			}
+			.col-md-2 {
+				ul {
+					padding: 0.2rem;
+					height: 100%;
+					justify-content: space-between;
+					display: flex;
+					flex-direction: column;
+					li {
+						list-style: none;
+					}
+				}
+
+				li.tag {
+					background-color: var(--primary);
+					color: var(--primary-contrast);
+					border-radius: 25px;
+					padding: 0.4rem;
+				}
+
+				@media (max-width: 992px){
+					ul {
+						flex-direction: row;
+						flex-wrap: wrap;
+						justify-content: flex-start;
+						li {
+							margin-right: 1rem;
+						}
+					}
+
+				}
+			}
+		}
+		p img {
+			max-width: 30rem;
+		}
+
+		.cover-image {
+			width: 100%;
+			height: 20rem;
+			object-fit: cover;
+		}
+	}
+}
