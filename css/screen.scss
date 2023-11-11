@@ -64,9 +64,9 @@ img.logo {
 	li label {
 		padding: 0.3em;
 	}
-	li label:hover {
-		background: #eee;
-		
+	// li label:hover {
+	// 	background: #eee;
+	// 
 	}
 	li {
 		list-style: none;
@@ -118,7 +118,7 @@ article.card {
 	}
 
 	&:hover {
-		outline: 3px solid #ccc;
+		outline: 3px solid var(--primary);
 	}
 }
 div.article-container {
@@ -144,11 +144,15 @@ section.recipe {
 			flex-direction: column;
 			justify-content: space-between;
 			background: var(--primary);
-			color: var(--primary-inverse);
 			margin-left: -1rem;
 			margin-right: -1rem;
 			margin-bottom: 0;
 			padding: 0;
+
+			color: var(--primary-inverse) !important;
+			h1, ul li,{
+				color: var(--primary-inverse);
+			}
 
 			.title {
 				padding-left: 1rem;

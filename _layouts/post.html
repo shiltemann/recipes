@@ -26,16 +26,16 @@ layout: default
 				{% endif %}
 
 				{% if page.recipe.person %}
-					<li class="tag" title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.recipe.person }}</span></li>
+					<li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.recipe.person }}</span></li>
 				{% else if page.person %}
-					<li  class="tag" title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.person }}</span></li>
+					<li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.person }}</span></li>
 				{% endif %}
 
 				{% if page.categories %}
 				<li title="Tags">
 					<ul>
 						{% for tag in page.categories %}
-						<li class="tag">
+						<li>
 							{{ tag }}
 						</li>
 						{% endfor %}
