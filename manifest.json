@@ -1,0 +1,24 @@
+{
+  "background_color": "#ffffff",
+  "description": "The best place in the universe to find some lovely recipes written by the galactic girlfriends.",
+  "display": "standalone",
+  "name": "Galaxians Recipes",
+  "scope": "/recipes/",
+  "short_name": "Recipes",
+  "icons": [
+    {
+      "src": "/recipes/assets/images/logo@512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/recipes/assets/images/logo@192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/recipes/",
+  "theme_color": "#fdd835"
+}
