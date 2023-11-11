@@ -11,6 +11,9 @@
   --primary-hover: #fbc02d;
   --primary-focus: rgba(253, 216, 53, 0.125);
   --primary-inverse: rgba(0, 0, 0, 0.75);
+
+  .light-show-dark-hide { display: unset; }
+  .dark-show-light-hide { display: none; }
 }
 
 /* Yellow Dark scheme (Auto) */
@@ -22,6 +25,9 @@
     --primary-focus: rgba(253, 216, 53, 0.25);
     --primary-inverse: rgba(0, 0, 0, 0.75);
   }
+
+  .light-show-dark-hide { display: none !important; }
+  .dark-show-light-hide { display: unset !important; }
 }
 
 /* Yellow Dark scheme (Forced) */
@@ -31,6 +37,9 @@
   --primary-hover: #ffeb3b;
   --primary-focus: rgba(253, 216, 53, 0.25);
   --primary-inverse: rgba(0, 0, 0, 0.75);
+
+  .light-show-dark-hide { display: none !important; }
+  .dark-show-light-hide { display: unset !important; }
 }
 
 /* Yellow (Common styles) */
