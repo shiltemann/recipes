@@ -41,22 +41,22 @@ Beste stamp!
 
 Gekookte bietjes door aardappels, mooi roze!
 
-![]({{site.baseurl}}/recipes/images/bietenstamp-pre.jpg)
+![]({% link recipes/images/bietenstamp-pre.jpg %})
 
 Jus met balletjes erbij!
 
-![]({{site.baseurl}}/recipes/images/bietenstamp-jus.jpg)
+![]({% link recipes/images/bietenstamp-jus.jpg %})
 
 Feta eroverheen, yum!
 
-![]({{site.baseurl}}/recipes/images/bietenstamp.jpg)
+![]({% link recipes/images/bietenstamp.jpg %})
 
 
 At appie you can get pre-cooked, pre-chopped bietjes, super easy!
 
-![]({{site.baseurl}}/recipes/images/stamppot-aardappels.jpeg)
-![]({{site.baseurl}}/recipes/images/bieten-voor-stamp.jpeg)
-![]({{site.baseurl}}/recipes/images/bieteb.jpeg)
-![]({{site.baseurl}}/recipes/images/indische-balletjes.jpeg)
+![]({% link recipes/images/stamppot-aardappels.jpeg %})
+![]({% link recipes/images/bieten-voor-stamp.jpeg %})
+![]({% link recipes/images/bieteb.jpeg %})
+![]({% link recipes/images/indische-balletjes.jpeg %})
 
 

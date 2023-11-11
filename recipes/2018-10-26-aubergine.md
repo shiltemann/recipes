@@ -43,18 +43,18 @@ Make this yummie recipe in 4 easy steps!
 
 Step 1: halve and score the aubergines
 
-![]({{ site.baseurl }}/recipes/images/aubergine_stap1.jpg)
+![]({% link recipes/images/aubergine_stap1.jpg %})
 
 Step 2: add sliced red chili, thyme, salt and pepper and brush with oil
 
-![]({{ site.baseurl }}/recipes/images/aubergine_stap2.jpg)
+![]({% link recipes/images/aubergine_stap2.jpg %})
 
 Step 3: Bake for 30-40 minutes
 
-![]({{ site.baseurl }}/recipes/images/aubergine_stap3.jpg)
+![]({% link recipes/images/aubergine_stap3.jpg %})
 
 Step 4: Add garlic-yoghurt, mintoil, and roasted almonds and you're done! Enjoy!
 
-![]({{ site.baseurl }}/recipes/images/aubergine_af.png)
+![]({% link recipes/images/aubergine_af.png %})
 
 

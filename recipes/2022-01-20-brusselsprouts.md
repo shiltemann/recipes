@@ -38,10 +38,10 @@ Can't believe I like Brussels Sprouts now!!
 
 Chop and season the brussel sprouts, coat in olive oil and just chuck in the oven!
 
-![]({{site.baseurl}}/recipes/images/brusselsprouts/oven.jpg)
+![]({% link recipes/images/brusselsprouts/oven.jpg %})
 
 In the meantime, make a yummie sauce
 
-![]({{site.baseurl}}/recipes/images/brusselsprouts/sauce.jpg)
+![]({% link recipes/images/brusselsprouts/sauce.jpg %})
 
 Very tasty! Good as a side dish or just for lunch!

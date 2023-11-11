@@ -32,14 +32,14 @@ Tip: adjust ratios to taste. Easy to overdo red onion/berries but never enough c
 
 1: Make dressing
 
-![]({{ site.baseurl }}/recipes/images/strawberry-salad/dressing.png)
+![]({% link recipes/images/strawberry-salad/dressing.png %})
 
 2: Chop salad and ingredients
 
-![]({{ site.baseurl }}/recipes/images/strawberry-salad/stuff.png){: width="50%"}
-![]({{ site.baseurl }}/recipes/images/strawberry-salad/spinach.png){: width="48%"}
+![]({% link recipes/images/strawberry-salad/stuff.png %}){: width="50%"}
+![]({% link recipes/images/strawberry-salad/spinach.png %}){: width="48%"}
 
 3: Enjoy!
 
-![]({{ site.baseurl }}/recipes/images/strawberry-salad/enjoy.png)
+![]({% link recipes/images/strawberry-salad/enjoy.png %})
 

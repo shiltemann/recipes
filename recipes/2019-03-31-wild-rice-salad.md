@@ -42,18 +42,18 @@ Tip: adjust ratios to taste
 
 1: Chop the fruits and veggies:
 
-![]({{ site.baseurl }}/recipes/images/wild_rice_salad/greens.jpg)
+![]({% link recipes/images/wild_rice_salad/greens.jpg %})
 
 2: Make the dressing:
 
-![]({{ site.baseurl }}/recipes/images/wild_rice_salad/dressing.jpg)
+![]({% link recipes/images/wild_rice_salad/dressing.jpg %})
 
 3: Toast the pecans and seeds:
 
-![]({{ site.baseurl }}/recipes/images/wild_rice_salad/pecans.jpg){: width="50%"}
-![]({{ site.baseurl }}/recipes/images/wild_rice_salad/nuts.jpg){: width="44%"}
+![]({% link recipes/images/wild_rice_salad/pecans.jpg %}){: width="50%"}
+![]({% link recipes/images/wild_rice_salad/nuts.jpg %}){: width="44%"}
 
 4: Enjoy!
 
-![]({{ site.baseurl }}/recipes/images/wild_rice_salad/served2.jpg)
+![]({% link recipes/images/wild_rice_salad/served2.jpg %})
 

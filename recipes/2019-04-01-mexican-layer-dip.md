@@ -42,14 +42,14 @@ Buen apetito!
 - Layer 3: Sour cream
 - Layer 4: Toppings
 
-![]({{ site.baseurl }}/recipes/images/mexican_layer_dip/layer1.jpg){: width="25%"}
-![]({{ site.baseurl }}/recipes/images/mexican_layer_dip/layer2.jpg){: width="24%"}
-![]({{ site.baseurl }}/recipes/images/mexican_layer_dip/layer3.jpg){: width="22%"}
-![]({{ site.baseurl }}/recipes/images/mexican_layer_dip/layer4.jpg){: width="24%"}
+![]({% link recipes/images/mexican_layer_dip/layer1.jpg %}){: width="25%"}
+![]({% link recipes/images/mexican_layer_dip/layer2.jpg %}){: width="24%"}
+![]({% link recipes/images/mexican_layer_dip/layer3.jpg %}){: width="22%"}
+![]({% link recipes/images/mexican_layer_dip/layer4.jpg %}){: width="24%"}
 
 Serve with tortilla chips
 
-![]({{ site.baseurl }}/recipes/images/mexican_layer_dip/final.jpg)
+![]({% link recipes/images/mexican_layer_dip/final.jpg %})
 
 
 

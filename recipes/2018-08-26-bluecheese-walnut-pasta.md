@@ -33,4 +33,4 @@ recipe:
 
 Inspired by Vapiano
 
-![recipe prep]({{ site.baseurl }}/recipes/images/bluecheese_walnut_prep.jpg)
+![recipe prep]({% link recipes/images/bluecheese_walnut_prep.jpg %})

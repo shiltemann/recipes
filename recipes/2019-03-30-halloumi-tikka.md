@@ -43,13 +43,13 @@ recipe:
 
 Step 1
 
-![]({{ site.baseurl }}/recipes/images/tikka_halloumi/stage1.jpg)
+![]({% link recipes/images/tikka_halloumi/stage1.jpg %})
 
 Step 2
 
-![]({{ site.baseurl }}/recipes/images/tikka_halloumi/stage2.jpg)
+![]({% link recipes/images/tikka_halloumi/stage2.jpg %})
 
 Eat!
 
-![]({{ site.baseurl }}/recipes/images/tikka_halloumi/served.jpg)
+![]({% link recipes/images/tikka_halloumi/served.jpg %})
 
