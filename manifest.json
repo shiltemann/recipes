@@ -20,5 +20,19 @@
     }
   ],
   "start_url": "/recipes/",
-  "theme_color": "#fdd835"
+  "theme_color": "#fdd835",
+"screenshots": [
+    {
+      "src": "/recipes/assets/images/screenshot2.png",
+      "type": "image/png",
+      "sizes": "453x771",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/recipes/assets/images/screenshot1.jpg",
+      "type": "image/jpg",
+      "sizes": "1198x779",
+      "form_factor": "wide"
+    }
+  ]
 }
