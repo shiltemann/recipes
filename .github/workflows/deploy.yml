@@ -39,10 +39,13 @@ jobs:
           ruby-version: '3.1' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
-      - uses: actions/setup-node@v4
+      - name: Setup NodeJS
+        uses: actions/setup-node@v4
         with:
           node-version: 16
           cache: 'npm'
+      - name: Npm Dependencies
+        run: npm ci
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
