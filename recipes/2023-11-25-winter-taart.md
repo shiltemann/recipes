@@ -36,5 +36,7 @@ recipe:
     Bake for a long while until done, probably 20-30 minutes.
 ---
 
+Based on an NYT Cooking recipe, it turned out quite well! We added biets because when I saw it originally on tiktok I mis-took the Caramelised onions for beets. So in the end we kept both, it was a nice addition.
+
 ![]({% link recipes/images/savory-taart.jpg %})
 ![]({% link recipes/images/savory-taart2.jpg %})
