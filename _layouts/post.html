@@ -3,13 +3,13 @@ layout: default
 ---
 <section class="recipe">
 
-<article>
+<article data-pagefind-body>
 	<header>
 		<div class="title">
-			<h1>
+			<h1 data-pagefind-meta="title">
 			{{ page.title }}
 			</h1>
-			<time datetime="{{ page.date | date_to_xmlschema }}">
+			<time datetime="{{ page.date | date_to_xmlschema }}" data-pagefind-meta="date:{{page.date|date_to_xmlschema}}">
 			    {{ page.date | date: "%B %-d, %Y" }}
 			</time>
 		</div>
@@ -19,23 +19,23 @@ layout: default
 		</div>
 		<div class="col-md-2">
 			<ul>
-				<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
-				<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
+				<li title="Servings" data-pagefind-meta="servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
+				<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span data-pagefind-meta="prep">{{ page.recipe.prep }}</span></li>
 				{% if page.recipe.cook %}
-				<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
+				<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span data-pagefind-meta="cook">{{ page.recipe.cook }}</span></li>
 				{% endif %}
 
 				{% if page.recipe.person %}
-					<li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.recipe.person }}</span></li>
+					<li title="Person">{% include recipe-icon.html icon="person" %}<span data-pagefind-filter="author">{{ page.recipe.person }}</span></li>
 				{% else if page.person %}
-					<li title="Person">{% include recipe-icon.html icon="person" %}<span>{{ page.person }}</span></li>
+					<li title="Person">{% include recipe-icon.html icon="person" %}<span data-pagefind-filter="author">{{ page.person }}</span></li>
 				{% endif %}
 
 				{% if page.categories %}
 				<li title="Tags">
 					<ul>
 						{% for tag in page.categories %}
-						<li>
+						<li data-pagefind-filter="tag">
 							{{ tag }}
 						</li>
 						{% endfor %}
@@ -65,7 +65,7 @@ layout: default
                             <ul class="ingredient-list">
                                     {% for ingredient in k[1] %}
                                         <li>
-                                                <label>
+                                                <label data-pagefind-filter="ingredient">
                                                 <input type="checkbox">
                                                 {{ ingredient }}
                                                 </label>
@@ -77,7 +77,7 @@ layout: default
                             <ul class="ingredient-list">
                                     {% for ingredient in page.recipe.ingredients %}
                                         <li>
-                                                <label>
+                                                <label data-pagefind-filter="ingredient">
                                                 <input type="checkbox">
                                                 {{ ingredient }}
                                                 </label>

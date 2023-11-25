@@ -35,10 +35,19 @@
 					{% endif %}
 					<li><a role="button" href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a></li>
 					{% endfor %}
+
 				</ul>
 			</nav>
 		</header>
 		<main class="container">
+			<link href="{{ site.baseurl }}/pagefind/pagefind-ui.css" rel="stylesheet">
+			<script src="{{ site.baseurl }}/pagefind/pagefind-ui.js"></script>
+			<div id="search"></div>
+			<script>
+			    window.addEventListener('DOMContentLoaded', (event) => {
+				new PagefindUI({ element: "#search", showSubResults: false, showEmptyFilters: false });
+			    });
+			</script>
 			{{ content }}
 		</main>
 		<footer class="container">

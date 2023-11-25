@@ -1,0 +1,8 @@
+{
+	"scripts": {
+		"index": "pagefind --site _site"
+	},
+  "dependencies": {
+    "pagefind": "^1.0.4"
+  }
+}
