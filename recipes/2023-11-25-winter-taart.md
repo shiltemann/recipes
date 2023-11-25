@@ -1,4 +1,3 @@
-
 ---
 title: Winter Baked Brie & Caramelised Veggie Pie
 categories:
