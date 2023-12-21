@@ -7,8 +7,8 @@
 /* Can be forced with data-theme="light" */
 [data-theme="light"],
 :root:not([data-theme="dark"]) {
-  --primary: #fdd835;
-  --primary-hover: #fbc02d;
+  --primary: #d6b628;
+  --primary-hover: #866209;
   --primary-focus: rgba(253, 216, 53, 0.125);
   --primary-inverse: rgba(0, 0, 0, 0.75);
 
