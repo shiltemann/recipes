@@ -4,7 +4,6 @@ title: Mexican Salad 2
 person: Albert Heijn
 tags:
 - Salad
-- Vegetarian
 image: https://static.ah.nl/static/recepten/img_RAM_PRD124863_890x594_JPG.jpg
 recipe:
   servings: 2 people

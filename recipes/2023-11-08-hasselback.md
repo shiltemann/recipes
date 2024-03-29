@@ -1,7 +1,8 @@
 ---
 title: Hasselback Butternut Squash
 tags:
-  - Vegetarian
+  - Harvest
+  - Winter
 image: recipes/images/hasselback.jpg
 recipe:
   person: Helena

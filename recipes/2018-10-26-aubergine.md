@@ -3,7 +3,7 @@ date: 2018-10-27
 title: Aubergines uit de oven
 person: Vonnie
 tags:
-  - Vegetarian
+  - Vegan
   - Side dish
 image: recipes/images/aubergine_af.png
 recipe:
@@ -18,7 +18,7 @@ recipe:
     - 30 grams sliced almonds (or as much as you want)
     - 15 grams fresh mint leaves
     - 2-3 little toes (haha get it) garlic
-    - 300 grams Greek yoghurt
+    - 300 grams kokos (or greek for non-veggie) yoghurt
   directions: |-
     **Prep**
     1. Preheat the oven at 200C/400F.

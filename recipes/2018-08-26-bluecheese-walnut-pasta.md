@@ -4,7 +4,6 @@ title: Blue Cheese and Walnut Pasta
 tags:
   - Pasta
   - Main Course
-  - Vegetarian
 image: recipes/images/bluecheese-walnut-pasta.png
 recipe:
   person: Von en Sas

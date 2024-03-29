@@ -3,7 +3,7 @@ date: 2019-04-01
 title: Mexican layer dip
 person: Helena and Saskia
 tags:
-  - Vegetarian
+  - Tex-Mex
 image: recipes/images/mexican_layer_dip/final.jpg
 recipe:
   servings: 2

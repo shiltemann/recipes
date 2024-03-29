@@ -3,7 +3,8 @@ date: 2019-11-04
 title: Baba Ganoush
 person: Helkia
 tags:
-  - Vegetarian
+  - Vegan
+  - Mezze
 image: https://foodscene.deliveroo.co.uk/assets/images/blogs/foodscene.deliveroo.co.uk/en/recipes/1GJ2mPqEagkio7UhRAV-vxuWmcmhsaqFdtKzapEeGZmM/h_20_smokedaubergine.jpg?v=1.01
 recipe:
   servings: 2 people
@@ -15,7 +16,7 @@ recipe:
     - 1 tsp salt
     - 25g Tahini
     - 25 mL olive oil
-    - 50g Labneh / Greek Yoghurt
+    - 50g kokosyoghurt / Labneh / Greek Yoghurt
     - Handful mint
     - Handful pomegranate seeds
   directions: |-

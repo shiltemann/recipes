@@ -3,7 +3,8 @@ date: 2019-04-01
 title: Shakshuka
 person: Helena and Saskia
 tags:
-  - Vegetarian
+  - Breakfast
+  - Middle East
 image: recipes/images/shakshuka.jpg
 recipe:
   servings: 2

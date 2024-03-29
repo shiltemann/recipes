@@ -3,6 +3,9 @@ date: 2022-01-21
 title: Bieten Stamp
 person: Saskia
 image: recipes/images/bietenstamp.jpg
+tags:
+- Vegan
+- Main
 recipe:
   servings: 2
   prep: 10 minutes
@@ -13,11 +16,11 @@ recipe:
     - indische balletjes (vega)
     - rode ui
     - kastanjechampignons
-    - feta
     - jus poeder
     - chili flakes
-    - boter (50g)
-    - melk
+    - feta (sub: nix)
+    - boter (50g, sub: nix)
+    - melk (sub: water)
   directions: |-
     **Stamp**
     1. Kook de aardappels, maak ondertussen de jus (zie onder)

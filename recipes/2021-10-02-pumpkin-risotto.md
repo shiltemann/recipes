@@ -2,7 +2,6 @@
 title: Pumpkin Risotto
 tags:
   - Pasta
-  - Vegetarian
   - Spooky Season
 image: recipes/images/pompoen-risotto.jpg
 person: Helena

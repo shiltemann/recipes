@@ -4,8 +4,8 @@ title: Tortilla Soup Isjes
 person: Helena
 tags:
   - Isjes
-  - Vegetarian
   - Tex-Mex
+  - Vegan
 image: recipes/images/tortilla-soup-isjes.jpg
 recipe:
   servings: 3

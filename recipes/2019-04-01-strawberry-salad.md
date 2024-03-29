@@ -3,7 +3,7 @@ date: 2019-04-01
 title: Strawberry salad
 person: Helena
 tags:
-  - Vegetarian
+  - Dinner
   - Salad
 image: recipes/images/strawberry-salad/enjoy.png
 recipe:

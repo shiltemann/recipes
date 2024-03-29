@@ -31,15 +31,15 @@ layout: default
 					<li title="Person">{% include recipe-icon.html icon="person" %}<span data-pagefind-filter="author">{{ page.person }}</span></li>
 				{% endif %}
 
-				{% if page.categories %}
+				{% if page.tags %}
 				<li title="Tags">
-					<ul>
-						{% for tag in page.categories %}
-						<li data-pagefind-filter="tag">
-							{{ tag }}
-						</li>
-						{% endfor %}
-					</ul>
+					{% for tag in page.tags  %}
+					<span>
+						<a href="{{ site.baseurl }}/tag/{{ tag | downcase }}/" data-pagefind-filter="tag" class="tag-badge">
+						{{ tag }}
+						</a>
+					</span>
+					{% endfor %}
 				</li>
 				{% else %}
 				{% endif %}

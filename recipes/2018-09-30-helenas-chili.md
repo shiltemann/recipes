@@ -4,7 +4,6 @@ title: Easy Veggie Chili
 person: Helena
 tags:
   - Main Course
-  - Vegetarian
   - Slowcooker
 image: recipes/images/chili.png
 recipe:

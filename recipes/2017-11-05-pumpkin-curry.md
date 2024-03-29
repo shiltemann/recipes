@@ -4,7 +4,8 @@ title: Pumpkin Curry
 person: Mom & Volkskrant
 tags:
   - Curry
-  - Vegetarian
+  - Vegan
+  - Indian
   - Main Course
   - Slowcooker
 image: recipes/images/pumpkin-curry-small.jpg

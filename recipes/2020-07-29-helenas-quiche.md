@@ -4,7 +4,6 @@ title: Veggie Quiche
 person: Helena
 tags:
   - Main Course
-  - Vegetarian
 image:
 recipe:
   servings: 2 portions

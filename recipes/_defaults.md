@@ -3,7 +3,7 @@ title: Name of my yummie recipe
 tags:  # kunnen er meerdere zijn, en je mag zelf categorieen erbij bedenken
   - Snack
   - Desserts
-  - Vegetarian
+  - Vegan
   - Slowcooker
 date: yyyy-mm-dd
 image:  # of een url naar een image, of naam van de image die je in images/recipes/ folder hebt neergezet

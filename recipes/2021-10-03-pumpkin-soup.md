@@ -2,8 +2,8 @@
 title: Pumpkin Soup
 tags:
   - Soup
-  - Vegetarian
   - Spooky Season
+  - Vegan
 image:
 person: Helena
 recipe:
@@ -17,7 +17,7 @@ recipe:
     - 1 tsp komijn (poeder)
     - 1 tsp kaneel
     - pompoenzaden
-    - sour cream
+    - optional sour cream / kokosgurt
   directions: |-
     1. Chop the **800g pompoen** so that they cook a bit faster, the cubes from appie are a bit too big. Throw them in the pot with a couple tsp of oil.
     2. Let these cook until soft. Add in **cajun spices** while cooking, perhaps some **red pepper flakes**. They should be quite tasty on their own when cooked.

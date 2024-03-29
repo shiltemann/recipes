@@ -3,7 +3,7 @@ date: 2020-08-17
 title: Tortilla Soup
 person: Helena
 tags:
-  - Vegetarian
+  - Vegan
   - Tex-Mex
 image: recipes/images/tortilla-soup.jpg
 recipe:
@@ -26,7 +26,8 @@ recipe:
     Extras:
     - corn tortilla per person, cut into 1/4-inch strips
     - 1 avocado
-    - sour cream
+    - (optional) sour cream
+    - (optional) cheddar
     - chopped cilantro
     - Lime wedges
   directions: |-

@@ -3,7 +3,7 @@ date: 2020-06-28
 title: Black bean Soup
 person: Helena and Saskia
 tags:
-  - Vegetarian
+  - Vegan
 image: https://cookieandkate.com/images/2016/02/spicy-black-bean-soup-recipe-4-768x1154.jpg
 recipe:
   servings: 2

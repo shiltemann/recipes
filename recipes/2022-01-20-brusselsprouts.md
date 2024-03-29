@@ -3,8 +3,7 @@ date: 2022-01-20
 title: Brussel Sprouts
 person: Helena
 tags:
-  - vegetarian
-  - side
+  - Side dish
 image: recipes/images/brusselsprouts/dish.jpg
 recipe:
   servings: 2

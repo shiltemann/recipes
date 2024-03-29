@@ -2,7 +2,6 @@
 title: Pumpkin Pancakes
 tags:
   - Asian
-  - Vegetarian
 image: recipes/images/pumpkin-pancakes.jpg
 recipe:
   url: https://www.thepioneerwoman.com/food-cooking/recipes/a40900656/pumpkin-pancakes-recipe/

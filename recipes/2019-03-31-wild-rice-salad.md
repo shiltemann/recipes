@@ -3,7 +3,7 @@ date: 2019-03-31
 title: Nutty Wild Rice Salad
 person: Von and Mom
 tags:
-  - Vegetarian
+  - Vegan
   - Salad
 image: recipes/images/wild_rice_salad/served2.jpg
 recipe:

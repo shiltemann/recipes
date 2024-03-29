@@ -34,8 +34,15 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - TODO.md
+  - INSTRUCTIONS.md
   - LICENCE
   - .direnv
+  - node_modules/
+  - '*.json'
+  - '*.py'
+  - '*.rb'
+  - Makefile
 
 social_icons:
   - RSS

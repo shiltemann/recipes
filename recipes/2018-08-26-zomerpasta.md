@@ -4,7 +4,6 @@ title: Zomerpasta
 tags:
   - Pasta
   - Main Course
-  - Vegetarian
 image: recipes/images/zomerpasta.png
 recipe:
   person: Cintia

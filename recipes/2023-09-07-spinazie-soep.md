@@ -2,7 +2,7 @@
 title: Spinazie Soep
 tags:
   - Soup
-  - Vegetarian
+  - Vegan
 image: recipes/images/spinazie-soep.jpg
 recipe:
   person: Saskia

@@ -3,7 +3,7 @@ date: 2019-03-30
 title: Tikka Massala met Halloumi
 person: Von and Sas
 tags:
-   - Vegetarian
+   - Indian
 image: recipes/images/tikka_halloumi/served.jpg
 description: halloumi is great replacement for chicken in this dish
 recipe:

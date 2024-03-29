@@ -220,3 +220,12 @@ section.recipe {
 		}
 	}
 }
+
+.tag-badge {
+	color: var(--primary-inverse);
+	background: var(--primary);
+	border: 1px solid black;
+	border-radius: 15px;
+	padding: 0.1rem 0.5rem;
+	margin-right: 0.3rem;
+}

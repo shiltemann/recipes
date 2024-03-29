@@ -1,8 +1,7 @@
 ---
 title: (WIP) Tamales
 tags:
-  - Tex-mex
-  - Vegetarian
+  - Tex-Mex
   - Optionally vegan
 image:
 recipe:

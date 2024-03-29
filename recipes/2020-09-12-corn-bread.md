@@ -1,6 +1,9 @@
 ---
 title: Corn Bread
-tags: []
+tags:
+- Southern
+- Comfort Food
+- Vegetarian
 image: recipes/images/cornbread.jpg
 recipe:
   person: Helena

@@ -2,7 +2,6 @@
 title: Pizza Dough
 person: Helena
 tags:
-  - Vegetarian
   - Bread
 image:
 recipe:
