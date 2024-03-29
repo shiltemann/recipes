@@ -1,10 +1,10 @@
 - mezze night
-	- muhamara
-	- hummus
-	- baba ganoush (tag it)
-	- garlic 
-	- fattoush
-- malai kofta
-- hk egg tarts
-- tteokboekie
-- sushi
+	- [ ] muhamara
+	- [x] hummus
+	- [x] baba ganoush (tag it)
+	- [ ] garlic 
+	- [ ] fattoush
+- [ ] malai kofta
+- [ ] hk egg tarts
+- [ ] tteokboekie
+- [ ] sushi
