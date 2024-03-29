@@ -3,7 +3,7 @@ install:
 	bundle install
 
 preview:
-	bundle exec jekyll serve
+	find _config.yml _plugins | entr -r bundle exec jekyll serve --livereload --destination _site/recipes/
 
 update:
 	git pull
