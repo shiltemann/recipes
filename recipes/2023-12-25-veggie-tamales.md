@@ -7,7 +7,7 @@ categories:
 image:
 recipe:
   person: Helena
-  servings: 8 people
+  servings: 16 people
   prep: 2 hours
   cook: 15 minute
   ingredients:
@@ -22,22 +22,27 @@ recipe:
       Filling:
       - Corn husks
       - Beans
-      - Cheese (cheddar is best, oaxaca also good sub mild feta)
+      - Cheese (cheddar is best, oaxaca also good sub mild feta. Others are possible.)
       - Spinazie
       - Paprika
-      - 
+      - potatoes
+      - corn / etc
 
   directions: |
+    You *probably* want to halve the masa.
+
+    Make your fillings:
+    - essentially stir fry some veggies you like
+    - maybe some potatoes and onions.
+    - these'll be your fillings.
+
+    Steam the corn husks in some hot water, 20-30 minutes, put ur molcajete or so on top to sink them
 
     Masa:
-
     - mix dry
     - add wets, oil first, mix a bit
     - add salsa + stock + mix
     - should not stick to hand
     - drop a small balletje into water, it should float when it's good.
 
-    Steam the corn husks in some hot water, 20-30 minutes, put ur molcajete or so on top to sink them
-
 ---
-
