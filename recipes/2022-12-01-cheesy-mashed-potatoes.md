@@ -1,7 +1,7 @@
 ---
 date: 2022-12-01
 title: Cheesy Mashed Potatoes
-categories:
+tags:
   - Main
 image:
 recipe:

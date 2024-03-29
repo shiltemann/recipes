@@ -1,7 +1,7 @@
 ---
 date: 2022-09-17
 title: Pumpkin Lasagna
-categories:
+tags:
   - Main
 image: recipes/images/pumpkin-lasagna.jpg
 recipe:

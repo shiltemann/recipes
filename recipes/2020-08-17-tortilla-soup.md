@@ -2,7 +2,7 @@
 date: 2020-08-17
 title: Tortilla Soup
 person: Helena
-categories:
+tags:
   - Vegetarian
   - Tex-Mex
 image: recipes/images/tortilla-soup.jpg

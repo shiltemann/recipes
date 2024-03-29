@@ -2,7 +2,7 @@
 date: 2022-01-20
 title: Brussel Sprouts
 person: Helena
-categories:
+tags:
   - vegetarian
   - side
 image: recipes/images/brusselsprouts/dish.jpg

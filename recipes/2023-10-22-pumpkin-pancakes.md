@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Pancakes
-categories:
+tags:
   - Asian
   - Vegetarian
 image: recipes/images/pumpkin-pancakes.jpg

@@ -1,7 +1,7 @@
 ---
 title: Pizza Dough
 person: Helena
-categories:
+tags:
   - Vegetarian
   - Bread
 image:

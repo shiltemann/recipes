@@ -1,6 +1,6 @@
 ---
 title: Winter Baked Brie & Caramelised Veggie Pie
-categories:
+tags:
   - Vegetarian
 image: recipes/images/savory-taart2.jpg
 recipe:

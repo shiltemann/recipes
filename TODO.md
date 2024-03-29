@@ -1,5 +1,5 @@
 - mezze night
-	-  muhamara
+	- muhamara
 	- hummus
 	- baba ganoush (tag it)
 	- garlic 

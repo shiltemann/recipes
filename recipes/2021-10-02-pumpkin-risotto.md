@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Risotto
-categories:
+tags:
   - Pasta
   - Vegetarian
   - Spooky Season

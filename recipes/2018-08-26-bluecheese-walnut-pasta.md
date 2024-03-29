@@ -1,7 +1,7 @@
 ---
 date: 2018-08-26
 title: Blue Cheese and Walnut Pasta
-categories:
+tags:
   - Pasta
   - Main Course
   - Vegetarian

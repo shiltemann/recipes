@@ -2,7 +2,7 @@
 date: 2019-04-01
 title: Shakshuka
 person: Helena and Saskia
-categories:
+tags:
   - Vegetarian
 image: recipes/images/shakshuka.jpg
 recipe:

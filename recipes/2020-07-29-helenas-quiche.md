@@ -2,7 +2,7 @@
 date: 2020-07-29
 title: Veggie Quiche
 person: Helena
-categories:
+tags:
   - Main Course
   - Vegetarian
 image:

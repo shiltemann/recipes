@@ -1,7 +1,7 @@
 ---
 date: 2017-10-22
 title: Wendy's Quiche Lorraine
-categories:
+tags:
   - Snacks
 image: recipes/images/quiche.jpg
 recipe:

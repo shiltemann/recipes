@@ -1,7 +1,7 @@
 ---
 date: 2018-08-26
 title: Zomerpasta
-categories:
+tags:
   - Pasta
   - Main Course
   - Vegetarian

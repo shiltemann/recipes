@@ -2,7 +2,7 @@
 date: 2020-07-30
 title: Passionfruit and White Chocolate Risotto
 person: Saskia
-categories:
+tags:
   - Vegetarian
 image: recipes/images/risotto-choc.jpg
 recipe:

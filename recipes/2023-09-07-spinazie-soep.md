@@ -1,6 +1,6 @@
 ---
 title: Spinazie Soep
-categories:
+tags:
   - Soup
   - Vegetarian
 image: recipes/images/spinazie-soep.jpg

@@ -1,6 +1,6 @@
 ---
 title: Corn Bread
-categories: []
+tags: []
 image: recipes/images/cornbread.jpg
 recipe:
   person: Helena

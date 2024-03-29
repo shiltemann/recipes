@@ -2,7 +2,7 @@
 date: 2019-11-04
 title: Baba Ganoush
 person: Helkia
-categories:
+tags:
   - Vegetarian
 image: https://foodscene.deliveroo.co.uk/assets/images/blogs/foodscene.deliveroo.co.uk/en/recipes/1GJ2mPqEagkio7UhRAV-vxuWmcmhsaqFdtKzapEeGZmM/h_20_smokedaubergine.jpg?v=1.01
 recipe:

@@ -1,6 +1,6 @@
 ---
 title: Hasselback Butternut Squash
-categories:
+tags:
   - Vegetarian
 image: recipes/images/hasselback.jpg
 recipe:

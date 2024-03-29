@@ -2,7 +2,7 @@
 date: 2019-11-04
 title: Mexican Salad 2
 person: Albert Heijn
-categories:
+tags:
 - Salad
 - Vegetarian
 image: https://static.ah.nl/static/recepten/img_RAM_PRD124863_890x594_JPG.jpg

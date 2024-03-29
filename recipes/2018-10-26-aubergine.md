@@ -2,7 +2,7 @@
 date: 2018-10-27
 title: Aubergines uit de oven
 person: Vonnie
-categories:
+tags:
   - Vegetarian
   - Side dish
 image: recipes/images/aubergine_af.png

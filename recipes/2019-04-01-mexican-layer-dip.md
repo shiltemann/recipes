@@ -2,7 +2,7 @@
 date: 2019-04-01
 title: Mexican layer dip
 person: Helena and Saskia
-categories:
+tags:
   - Vegetarian
 image: recipes/images/mexican_layer_dip/final.jpg
 recipe:

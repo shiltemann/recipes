@@ -1,6 +1,6 @@
 ---
 title: Brekkie Beans
-categories:
+tags:
   - Vegan
 image: recipes/images/brekkie-beans.jpg
 recipe:

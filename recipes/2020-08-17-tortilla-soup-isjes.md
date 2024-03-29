@@ -2,7 +2,7 @@
 date: 2020-08-17
 title: Tortilla Soup Isjes
 person: Helena
-categories:
+tags:
   - Isjes
   - Vegetarian
   - Tex-Mex

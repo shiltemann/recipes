@@ -2,7 +2,7 @@
 date: 2018-09-30
 title: Easy Veggie Chili
 person: Helena
-categories:
+tags:
   - Main Course
   - Vegetarian
   - Slowcooker

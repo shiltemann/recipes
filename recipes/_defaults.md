@@ -1,6 +1,6 @@
 ---
 title: Name of my yummie recipe
-categories:  # kunnen er meerdere zijn, en je mag zelf categorieen erbij bedenken
+tags:  # kunnen er meerdere zijn, en je mag zelf categorieen erbij bedenken
   - Snack
   - Desserts
   - Vegetarian

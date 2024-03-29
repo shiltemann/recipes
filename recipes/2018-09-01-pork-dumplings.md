@@ -1,7 +1,7 @@
 ---
 date: 2018-09-01
 title: Pork dumplings
-categories:
+tags:
   - Asian
   - Main Course
   - Side dish

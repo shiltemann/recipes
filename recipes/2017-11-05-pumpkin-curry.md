@@ -2,7 +2,7 @@
 date: 2017-11-05
 title: Pumpkin Curry
 person: Mom & Volkskrant
-categories:
+tags:
   - Curry
   - Vegetarian
   - Main Course

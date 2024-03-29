@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Soup
-categories:
+tags:
   - Soup
   - Vegetarian
   - Spooky Season

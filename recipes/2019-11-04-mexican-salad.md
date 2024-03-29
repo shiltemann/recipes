@@ -2,7 +2,7 @@
 date: 2019-11-04
 title: Mexican Bowl
 person: Helkia
-categories:
+tags:
   - Vegetarian
   - Salad
 image: recipes/images/mexican-bowl.png
