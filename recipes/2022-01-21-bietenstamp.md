@@ -18,9 +18,9 @@ recipe:
     - kastanjechampignons
     - jus poeder
     - chili flakes
-    - feta (sub: nix)
-    - boter (50g, sub: nix)
-    - melk (sub: water)
+    - feta (sub; nix)
+    - boter (50g, sub; nix)
+    - melk (sub; water)
   directions: |-
     **Stamp**
     1. Kook de aardappels, maak ondertussen de jus (zie onder)
