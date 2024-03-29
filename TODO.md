@@ -7,4 +7,4 @@
 - [ ] malai kofta
 - [ ] hk egg tarts
 - [ ] tteokboekie
-- [ ] sushi
+- [x] sushi
