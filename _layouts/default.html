@@ -58,8 +58,12 @@
 					</a>
 				</div>
 				<div>
-					<p>{{ site.data.sidebar.description_markdown | markdownify }}</p>
-					<a target="_blank" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}</a>
+					{{ site.data.sidebar.description_markdown | markdownify }}
+					<a target="_blank" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %} Subscribe via RSS</a>
+
+					<p>
+					Version: <a href="https://github.com/shiltemann/recipes/commit/{{ site.git_revision }}">{{ site.git_revision_short }}</a>, built with Jekyll ({{ jekyll.version }} | {{ jekyll.environment }})
+					</p>
 				</div>
 			</div>
 		</footer>
