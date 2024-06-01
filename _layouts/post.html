@@ -92,8 +92,13 @@ layout: default
             {{ page.recipe.directions | markdownify }}
         </div>
 
-     <div class="recipe-body">
+     <div class="recipe-body" style="margin-top: 1em">
+     <hr>
+     <h2>Description</h2>
+
         {{ content }}
+
+        <img src="{{site.baseurl}}/{{page.image}}" alt="cover img"></img>
     </div>
 
 </article>
