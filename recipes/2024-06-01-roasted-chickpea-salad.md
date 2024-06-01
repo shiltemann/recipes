@@ -51,3 +51,5 @@ Add whatever salad ingredients you have. It's already tasty without dressing.
 ![]({% link recipes/images/roasted-chickpea-salad.jpg %})
 
 Baharat mix is: paprika, korianderzaad, zwarte peper, kaneel, komijnzaad, kardemom, ui, knoflook, nootmuskaat, kruidnagel, cayennepeper. Bevat geen toegevoegd zout.
+
+
