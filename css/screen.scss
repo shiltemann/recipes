@@ -55,7 +55,9 @@
 // Simplified example
 body {
 	  --border-radius: 25px;
+}
 
+body.dark{
       --pagefind-ui-primary: #eeeeee;
       --pagefind-ui-text: #eeeeee;
       --pagefind-ui-background: #152028;
