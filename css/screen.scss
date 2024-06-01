@@ -28,6 +28,14 @@
 
   .light-show-dark-hide { display: none !important; }
   .dark-show-light-hide { display: unset !important; }
+
+  body {
+     --pagefind-ui-primary: #eeeeee;
+      --pagefind-ui-text: #eeeeee;
+      --pagefind-ui-background: #152028;
+      --pagefind-ui-border: #152028;
+      --pagefind-ui-tag: #152028;
+  }
 }
 
 /* Yellow Dark scheme (Forced) */
@@ -55,14 +63,6 @@
 // Simplified example
 body {
 	  --border-radius: 25px;
-}
-
-body.dark{
-      --pagefind-ui-primary: #eeeeee;
-      --pagefind-ui-text: #eeeeee;
-      --pagefind-ui-background: #152028;
-      --pagefind-ui-border: #152028;
-      --pagefind-ui-tag: #152028;
 }
 
 img.logo {
