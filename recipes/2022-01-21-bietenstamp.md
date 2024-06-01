@@ -6,6 +6,7 @@ image: recipes/images/bietenstamp.jpg
 tags:
 - Vegan
 - Main
+- Stamp
 recipe:
   servings: 2
   prep: 10 minutes
