@@ -120,9 +120,7 @@ layout: default
 			"prepTime": "{{ page.recipe.prep }}",
 			"cookTime": "{{ page.recipe.cook }}",
 			"datePublished": "{{ page.date }}",
-			{% if page.description %}
-			"description": "{{ page.description }}",
-			{% endif %}
+			"description": "{{ page.description | default: page.content | replace_newline | replace: '"', '&quot;' }}",
 			"image": "{{ site.url }}{{ site.baseurl }}/{{ page.image }}",
 			"recipeCategory": [
 				"Main Course"
