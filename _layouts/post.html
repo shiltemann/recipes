@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{% assign ingredient_style = page.recipe.ingredients | map: "" | join: "," | size %}
+
 <section class="recipe">
 
 <article data-pagefind-body>
@@ -56,8 +58,7 @@ layout: default
         <div class="ingredients">
             <h2>Ingredients</h2>
 
-                    {% assign tmp = page.recipe.ingredients | map: "" | join: "," | size %}
-                    {% if tmp == 0 %}
+                    {% if ingredient_style == 0 %}
                         {% for k in page.recipe.ingredients %}
 			<p>
                         {{ k[0] }}
@@ -105,23 +106,54 @@ layout: default
 </section>
 
 <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "Recipe",
-      "name": "{{ page.title }}",
-      "author": "{{ page.person }}",
-      "prepTime": "{{ page.recipe.prep }}",
-      "cookTime": "{{ page.recipe.cook }}",
-      "datePublished": "{{ page.date }}",
-      {% if page.description %}
-      "description": "{{ page.description }}",
-      {% endif %}
-      "image": "{{ site.baseurl }}/{{ page.image }}",
-      "recipeIngredient": {{ page.recipe.ingredients }},
-      "recipeInstructions": "{{ page.recipe.directions }}",
-      "recipeYield": "{{ page.recipe.servings }}"
-    }
+{
+	"@context": "http://schema.org",
+	"@graph": [
+		{
+			"@id": "{{ page.url }}",
+			"@type": "Recipe",
+			"name": "{{ page.title }}",
+			"author": {
+				"@type": "Person",
+				"name": "{{ page.person }}"
+			},
+			"prepTime": "{{ page.recipe.prep }}",
+			"cookTime": "{{ page.recipe.cook }}",
+			"datePublished": "{{ page.date }}",
+			{% if page.description %}
+			"description": "{{ page.description }}",
+			{% endif %}
+			"image": "{{ site.baseurl }}/{{ page.image }}",
+			"recipeCategory": [
+				"Main Course"
+			],
+			"recipeIngredient": [
+				{% if ingredient_style == 0 %}
+					{% for k in page.recipe.ingredients %}
+						{% for ing in k[1] %}
+							"{{ ing }}",
+						{% endfor %}
+					{% endfor %}
+				{% else %}
+					{% for ing in page.recipe.ingredients %}
+						"{{ ing }}",
+					{% endfor %}
+				{% endif %}
+			]
+			"recipeInstructions": [
+				{
+					"@type": "HowToStep",
+					"name": "{{ page.recipe.directions  }}",
+					"text": "{{ page.recipe.directions  }}",
+				}
+			]
+			"recipeYield": "{{ page.recipe.servings }}"
+		}
+	]
+}
 </script>
 
+
+<script type="application/ld+json" class="rank-math-schema"></script>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
