@@ -131,20 +131,20 @@ layout: default
 				{% if ingredient_style == 0 %}
 					{% for k in page.recipe.ingredients %}
 						{% for ing in k[1] %}
-							"{{ ing }}",
+							"{{ ing }}"{% unless forloop.last %},{% endunless %}
 						{% endfor %}
 					{% endfor %}
 				{% else %}
 					{% for ing in page.recipe.ingredients %}
-						"{{ ing }}",
+						"{{ ing }}"{% unless forloop.last %},{% endunless %}
 					{% endfor %}
 				{% endif %}
 			]
 			"recipeInstructions": [
 				{
 					"@type": "HowToStep",
-					"name": "{{ page.recipe.directions  }}",
-					"text": "{{ page.recipe.directions  }}",
+					"name": "{{ page.recipe.directions | replace_newline }}",
+					"text": "{{ page.recipe.directions | replace_newline }}",
 				}
 			]
 			"recipeYield": "{{ page.recipe.servings }}"
