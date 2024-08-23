@@ -14,7 +14,8 @@
         <link rel="stylesheet" media="print" href="{{ site.baseurl }}/css/print.css">
     {% endif %}
     <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
-    {% seo %}
+    {% capture seo_text %}{% seo %}{% endcapture %}
+    {{ seo_text | delete_jsonld }}
     {% feed_meta %}
 </head>
 	<body>
