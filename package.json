@@ -3,6 +3,6 @@
 		"index": "pagefind --site _site --output-path _site/recipes/pagefind/"
 	},
   "dependencies": {
-    "pagefind": "^1.0.4"
+    "pagefind": "^1.1.1"
   }
 }
